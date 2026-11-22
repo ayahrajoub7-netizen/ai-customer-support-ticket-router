@@ -1,0 +1,4520 @@
+[
+  {
+    "text": "what's the word for trees in norway",
+    "gold": "translate",
+    "pred": "oos",
+    "confidence": 0.21626678109169006
+  },
+  {
+    "text": "what would the word for grass be in finland",
+    "gold": "translate",
+    "pred": "definition",
+    "confidence": 0.40652230381965637
+  },
+  {
+    "text": "english to spanish for dog",
+    "gold": "translate",
+    "pred": "change_language",
+    "confidence": 0.629862368106842
+  },
+  {
+    "text": "add funds to the retirement account from the pnc account only",
+    "gold": "transfer",
+    "pred": "freeze_account",
+    "confidence": 0.5151376128196716
+  },
+  {
+    "text": "repeat what the weather will be like",
+    "gold": "transfer",
+    "pred": "weather",
+    "confidence": 0.945164680480957
+  },
+  {
+    "text": "who set up the numbers for it",
+    "gold": "timer",
+    "pred": "oos",
+    "confidence": 0.07273424416780472
+  },
+  {
+    "text": "define discontent",
+    "gold": "definition",
+    "pred": "oos",
+    "confidence": 0.22857391834259033
+  },
+  {
+    "text": "what is the definiton of auspicious",
+    "gold": "definition",
+    "pred": "fun_fact",
+    "confidence": 0.2461601197719574
+  },
+  {
+    "text": "i heard some woman say she was going to yerd me, what's that mean",
+    "gold": "definition",
+    "pred": "oos",
+    "confidence": 0.12483576685190201
+  },
+  {
+    "text": "is there a reason beyond biology about why humans are alive",
+    "gold": "meaning_of_life",
+    "pred": "oos",
+    "confidence": 0.5169625878334045
+  },
+  {
+    "text": "what's the answer to it all",
+    "gold": "meaning_of_life",
+    "pred": "maybe",
+    "confidence": 0.6578101515769958
+  },
+  {
+    "text": "i need to sign up for a new allstate plan",
+    "gold": "insurance_change",
+    "pred": "oos",
+    "confidence": 0.22528864443302155
+  },
+  {
+    "text": "how do i sign up for a new allstatedplan",
+    "gold": "insurance_change",
+    "pred": "oos",
+    "confidence": 0.1771990805864334
+  },
+  {
+    "text": "does the state department say anything about traveling to haiti",
+    "gold": "travel_alert",
+    "pred": "oos",
+    "confidence": 0.31504523754119873
+  },
+  {
+    "text": "vacation request please",
+    "gold": "pto_request",
+    "pred": "pto_request_status",
+    "confidence": 0.43853384256362915
+  },
+  {
+    "text": "how can i contribute to my credit score",
+    "gold": "improve_credit_score",
+    "pred": "credit_score",
+    "confidence": 0.9072808623313904
+  },
+  {
+    "text": "how can i up my credit score",
+    "gold": "improve_credit_score",
+    "pred": "credit_score",
+    "confidence": 0.9606231451034546
+  },
+  {
+    "text": "will only having five late payments really make my credit bad",
+    "gold": "improve_credit_score",
+    "pred": "oos",
+    "confidence": 0.14543452858924866
+  },
+  {
+    "text": "what is some trivia about the weather",
+    "gold": "fun_fact",
+    "pred": "weather",
+    "confidence": 0.9161237478256226
+  },
+  {
+    "text": "i want to learn something about apples",
+    "gold": "fun_fact",
+    "pred": "oos",
+    "confidence": 0.23676776885986328
+  },
+  {
+    "text": "tell me fun facts on science topics",
+    "gold": "fun_fact",
+    "pred": "oos",
+    "confidence": 0.4332799017429352
+  },
+  {
+    "text": "please speak in tagalog",
+    "gold": "change_language",
+    "pred": "spelling",
+    "confidence": 0.33516502380371094
+  },
+  {
+    "text": "can you tell me the date of my last check",
+    "gold": "payday",
+    "pred": "last_maintenance",
+    "confidence": 0.5252777934074402
+  },
+  {
+    "text": "when did i last collect my salary",
+    "gold": "payday",
+    "pred": "income",
+    "confidence": 0.4657524526119232
+  },
+  {
+    "text": "what day will i earn my payment from work",
+    "gold": "payday",
+    "pred": "bill_due",
+    "confidence": 0.8256499767303467
+  },
+  {
+    "text": "what day can i expect to receive payment on",
+    "gold": "payday",
+    "pred": "bill_due",
+    "confidence": 0.8893064260482788
+  },
+  {
+    "text": "when will my payment be deposited",
+    "gold": "payday",
+    "pred": "bill_due",
+    "confidence": 0.4952280819416046
+  },
+  {
+    "text": "can credit card companies expedite delivery of reissued credit cards",
+    "gold": "replacement_card_duration",
+    "pred": "expiration_date",
+    "confidence": 0.4230782091617584
+  },
+  {
+    "text": "can you call the help desk line for my credit card company",
+    "gold": "replacement_card_duration",
+    "pred": "damaged_card",
+    "confidence": 0.282588392496109
+  },
+  {
+    "text": "how can i request a new credit card",
+    "gold": "replacement_card_duration",
+    "pred": "new_card",
+    "confidence": 0.8521595001220703
+  },
+  {
+    "text": "what's the phone number for my credit card company",
+    "gold": "replacement_card_duration",
+    "pred": "oos",
+    "confidence": 0.13217882812023163
+  },
+  {
+    "text": "time to order and receive a new credit card",
+    "gold": "replacement_card_duration",
+    "pred": "new_card",
+    "confidence": 0.7740014791488647
+  },
+  {
+    "text": "is it six o clock yet",
+    "gold": "time",
+    "pred": "timer",
+    "confidence": 0.47394952178001404
+  },
+  {
+    "text": "tell time for another city: dallas",
+    "gold": "time",
+    "pred": "directions",
+    "confidence": 0.5612220764160156
+  },
+  {
+    "text": "could you call me by a different name, please",
+    "gold": "change_user_name",
+    "pred": "change_ai_name",
+    "confidence": 0.5255388021469116
+  },
+  {
+    "text": "ai, my name is deb please use my name when you talk to me",
+    "gold": "change_user_name",
+    "pred": "user_name",
+    "confidence": 0.807756781578064
+  },
+  {
+    "text": "ai answer my questions with my name first which is deb",
+    "gold": "change_user_name",
+    "pred": "user_name",
+    "confidence": 0.8806964159011841
+  },
+  {
+    "text": "ai, refer to me as deb when answering me",
+    "gold": "change_user_name",
+    "pred": "user_name",
+    "confidence": 0.8996523022651672
+  },
+  {
+    "text": "ai, address me as deb when speaking to me",
+    "gold": "change_user_name",
+    "pred": "user_name",
+    "confidence": 0.6696920394897461
+  },
+  {
+    "text": "a hidden government facility",
+    "gold": "where_are_you_from",
+    "pred": "directions",
+    "confidence": 0.4442954957485199
+  },
+  {
+    "text": "add laundry detergent to the list",
+    "gold": "shopping_list_update",
+    "pred": "todo_list_update",
+    "confidence": 0.9093123078346252
+  },
+  {
+    "text": "the list should also have 2 loaves of bread",
+    "gold": "shopping_list_update",
+    "pred": "oos",
+    "confidence": 0.23725172877311707
+  },
+  {
+    "text": "include asparagus on the list",
+    "gold": "shopping_list_update",
+    "pred": "todo_list_update",
+    "confidence": 0.6690277457237244
+  },
+  {
+    "text": "i don't need eggs anymore, but i do need milk",
+    "gold": "shopping_list_update",
+    "pred": "ingredient_substitution",
+    "confidence": 0.2820647060871124
+  },
+  {
+    "text": "what are you programmed to do for me",
+    "gold": "what_can_i_ask_you",
+    "pred": "who_made_you",
+    "confidence": 0.8978132009506226
+  },
+  {
+    "text": "i am unable to say",
+    "gold": "maybe",
+    "pred": "cancel",
+    "confidence": 0.3013792335987091
+  },
+  {
+    "text": "i'd like to make a reservation at rooth chris, can you do that",
+    "gold": "restaurant_reservation",
+    "pred": "accept_reservations",
+    "confidence": 0.5045998096466064
+  },
+  {
+    "text": "are there any open reservations at outback tonight",
+    "gold": "restaurant_reservation",
+    "pred": "accept_reservations",
+    "confidence": 0.9054580330848694
+  },
+  {
+    "text": "what are my coffers at",
+    "gold": "balance",
+    "pred": "restaurant_reviews",
+    "confidence": 0.52491694688797
+  },
+  {
+    "text": "i wanna know your maker",
+    "gold": "who_made_you",
+    "pred": "who_do_you_work_for",
+    "confidence": 0.46064698696136475
+  },
+  {
+    "text": "what's the mileage to get the the taj mahal in atlantic city",
+    "gold": "distance",
+    "pred": "mpg",
+    "confidence": 0.780991792678833
+  },
+  {
+    "text": "how many minutes am i from texaco",
+    "gold": "distance",
+    "pred": "timer",
+    "confidence": 0.37455469369888306
+  },
+  {
+    "text": "am i close to arriving at the post office",
+    "gold": "distance",
+    "pred": "directions",
+    "confidence": 0.7957056164741516
+  },
+  {
+    "text": "how much farther is orlando from my location",
+    "gold": "distance",
+    "pred": "current_location",
+    "confidence": 0.4348617196083069
+  },
+  {
+    "text": "do i have a ways to go or am i close to getting to penn station",
+    "gold": "distance",
+    "pred": "directions",
+    "confidence": 0.901083767414093
+  },
+  {
+    "text": "what's your designation",
+    "gold": "user_name",
+    "pred": "what_is_your_name",
+    "confidence": 0.9140514135360718
+  },
+  {
+    "text": "what time is it in phoenix",
+    "gold": "timezone",
+    "pred": "time",
+    "confidence": 0.9083202481269836
+  },
+  {
+    "text": "i dont want to listen to this song",
+    "gold": "next_song",
+    "pred": "what_song",
+    "confidence": 0.7635982036590576
+  },
+  {
+    "text": "is my visa bill over my limit this month",
+    "gold": "transactions",
+    "pred": "credit_limit",
+    "confidence": 0.911525309085846
+  },
+  {
+    "text": "what have i spent things on",
+    "gold": "transactions",
+    "pred": "spending_history",
+    "confidence": 0.9342797994613647
+  },
+  {
+    "text": "show what i have spent things on",
+    "gold": "transactions",
+    "pred": "spending_history",
+    "confidence": 0.939403772354126
+  },
+  {
+    "text": "how much have i spent on my debit card this month",
+    "gold": "transactions",
+    "pred": "spending_history",
+    "confidence": 0.8217813968658447
+  },
+  {
+    "text": "how much have i spent on my bank card sine i last paid my bill",
+    "gold": "transactions",
+    "pred": "spending_history",
+    "confidence": 0.3949379324913025
+  },
+  {
+    "text": "how much was my last target trip",
+    "gold": "transactions",
+    "pred": "oos",
+    "confidence": 0.15184061229228973
+  },
+  {
+    "text": "i need reviews for places serving tacos in chicago",
+    "gold": "restaurant_suggestion",
+    "pred": "restaurant_reviews",
+    "confidence": 0.6751934289932251
+  },
+  {
+    "text": "today my electric bill will be paid, or should be",
+    "gold": "pay_bill",
+    "pred": "bill_due",
+    "confidence": 0.8738328218460083
+  },
+  {
+    "text": "today is the day i should pay my electric bill",
+    "gold": "pay_bill",
+    "pred": "bill_due",
+    "confidence": 0.9282915592193604
+  },
+  {
+    "text": "my electric bill should be paid today",
+    "gold": "pay_bill",
+    "pred": "bill_due",
+    "confidence": 0.8238648772239685
+  },
+  {
+    "text": "pay $175 on my visa",
+    "gold": "pay_bill",
+    "pred": "credit_limit_change",
+    "confidence": 0.4736143946647644
+  },
+  {
+    "text": "looking at this week only, have i overspent on hoagies",
+    "gold": "spending_history",
+    "pred": "oos",
+    "confidence": 0.13551804423332214
+  },
+  {
+    "text": "do i overspend when it comes to fast food",
+    "gold": "spending_history",
+    "pred": "cook_time",
+    "confidence": 0.4061899781227112
+  },
+  {
+    "text": "what are my finances like lately",
+    "gold": "spending_history",
+    "pred": "income",
+    "confidence": 0.5365466475486755
+  },
+  {
+    "text": "is vacation a go",
+    "gold": "pto_request_status",
+    "pred": "pto_request",
+    "confidence": 0.8993852734565735
+  },
+  {
+    "text": "how is my vacation looking",
+    "gold": "pto_request_status",
+    "pred": "pto_balance",
+    "confidence": 0.40566202998161316
+  },
+  {
+    "text": "when will my vacation time be confirmed",
+    "gold": "pto_request_status",
+    "pred": "pto_balance",
+    "confidence": 0.6174536347389221
+  },
+  {
+    "text": "when will i hear back about my days off",
+    "gold": "pto_request_status",
+    "pred": "next_holiday",
+    "confidence": 0.794638991355896
+  },
+  {
+    "text": "am i okay to take those vacation days",
+    "gold": "pto_request_status",
+    "pred": "pto_balance",
+    "confidence": 0.6509743332862854
+  },
+  {
+    "text": "i'm trying to raise my credit score can you tell me what it is now",
+    "gold": "credit_score",
+    "pred": "improve_credit_score",
+    "confidence": 0.949873149394989
+  },
+  {
+    "text": "tell me my credit raing",
+    "gold": "credit_score",
+    "pred": "oos",
+    "confidence": 0.1538914293050766
+  },
+  {
+    "text": "how do i apply do get myself a visa",
+    "gold": "new_card",
+    "pred": "international_visa",
+    "confidence": 0.8396479487419128
+  },
+  {
+    "text": "i need to get a mastercard somehow",
+    "gold": "new_card",
+    "pred": "replacement_card_duration",
+    "confidence": 0.3969724774360657
+  },
+  {
+    "text": "i lost all my stuff that i had packed",
+    "gold": "lost_luggage",
+    "pred": "oos",
+    "confidence": 0.18586455285549164
+  },
+  {
+    "text": "what'd you say",
+    "gold": "repeat",
+    "pred": "what_is_your_name",
+    "confidence": 0.321562260389328
+  },
+  {
+    "text": "where can i find information on oil changes for my car",
+    "gold": "oil_change_when",
+    "pred": "oil_change_how",
+    "confidence": 0.47432202100753784
+  },
+  {
+    "text": "what are the manufacturers guidance on oil changes",
+    "gold": "oil_change_when",
+    "pred": "oil_change_how",
+    "confidence": 0.4021139144897461
+  },
+  {
+    "text": "that checks out",
+    "gold": "yes",
+    "pred": "order_checks",
+    "confidence": 0.9601534008979797
+  },
+  {
+    "text": "okay",
+    "gold": "yes",
+    "pred": "greeting",
+    "confidence": 0.6671616435050964
+  },
+  {
+    "text": "i agree",
+    "gold": "yes",
+    "pred": "maybe",
+    "confidence": 0.5575834512710571
+  },
+  {
+    "text": "please let's do it",
+    "gold": "yes",
+    "pred": "cancel",
+    "confidence": 0.5745580792427063
+  },
+  {
+    "text": "can we please",
+    "gold": "yes",
+    "pred": "maybe",
+    "confidence": 0.6735742092132568
+  },
+  {
+    "text": "10-4",
+    "gold": "yes",
+    "pred": "calculator",
+    "confidence": 0.9413887858390808
+  },
+  {
+    "text": "ya",
+    "gold": "yes",
+    "pred": "greeting",
+    "confidence": 0.4705621004104614
+  },
+  {
+    "text": "yup",
+    "gold": "yes",
+    "pred": "greeting",
+    "confidence": 0.6452851891517639
+  },
+  {
+    "text": "great",
+    "gold": "yes",
+    "pred": "thank_you",
+    "confidence": 0.8950247764587402
+  },
+  {
+    "text": "help me pick a new location to travel to",
+    "gold": "travel_suggestion",
+    "pred": "directions",
+    "confidence": 0.2719246745109558
+  },
+  {
+    "text": "cross grocery shopping off the todo list",
+    "gold": "todo_list_update",
+    "pred": "shopping_list_update",
+    "confidence": 0.7107644081115723
+  },
+  {
+    "text": "i don't need grocery shopping on my todo list anymore",
+    "gold": "todo_list_update",
+    "pred": "shopping_list_update",
+    "confidence": 0.7641400694847107
+  },
+  {
+    "text": "remove grocery shopping from todo list",
+    "gold": "todo_list_update",
+    "pred": "shopping_list_update",
+    "confidence": 0.5884014964103699
+  },
+  {
+    "text": "cross off grocery shopping from todo list",
+    "gold": "todo_list_update",
+    "pred": "shopping_list_update",
+    "confidence": 0.8858753442764282
+  },
+  {
+    "text": "empty the contents of my to do list",
+    "gold": "todo_list_update",
+    "pred": "todo_list",
+    "confidence": 0.926029622554779
+  },
+  {
+    "text": "please note vacuuming on my to do list",
+    "gold": "todo_list_update",
+    "pred": "todo_list",
+    "confidence": 0.6560377478599548
+  },
+  {
+    "text": "can you please remind me of the items that i made note of to not forget",
+    "gold": "reminder",
+    "pred": "reminder_update",
+    "confidence": 0.6243596076965332
+  },
+  {
+    "text": "can i change your talking voice",
+    "gold": "change_speed",
+    "pred": "whisper_mode",
+    "confidence": 0.6255903840065002
+  },
+  {
+    "text": "have i gotten around to adding the bike ride to my calendar yet",
+    "gold": "calendar",
+    "pred": "calendar_update",
+    "confidence": 0.9166414141654968
+  },
+  {
+    "text": "have i added my doctor's appointment to my calendar",
+    "gold": "calendar",
+    "pred": "calendar_update",
+    "confidence": 0.929703950881958
+  },
+  {
+    "text": "is the marathon on friday added to my calendar",
+    "gold": "calendar",
+    "pred": "calendar_update",
+    "confidence": 0.7372118830680847
+  },
+  {
+    "text": "retrieve events on my calendar",
+    "gold": "calendar",
+    "pred": "calendar_update",
+    "confidence": 0.8690267205238342
+  },
+  {
+    "text": "on tuesday you are supposed to have a meeting",
+    "gold": "calendar",
+    "pred": "schedule_meeting",
+    "confidence": 0.8962559700012207
+  },
+  {
+    "text": "you have yo go to school on calendar",
+    "gold": "calendar",
+    "pred": "calendar_update",
+    "confidence": 0.6393226385116577
+  },
+  {
+    "text": "i bought 6 shirts at $499 each what was my total expenditure for them",
+    "gold": "calculator",
+    "pred": "income",
+    "confidence": 0.4197504222393036
+  },
+  {
+    "text": "i spent 34 dollars for 12 gallons of paint what is the average price for each gallon",
+    "gold": "calculator",
+    "pred": "exchange_rate",
+    "confidence": 0.2941686511039734
+  },
+  {
+    "text": "what will tomorrow be on the calendar",
+    "gold": "date",
+    "pred": "calendar",
+    "confidence": 0.8618953824043274
+  },
+  {
+    "text": "can i bring perfume on the plane or what is the size limit",
+    "gold": "carry_on",
+    "pred": "oos",
+    "confidence": 0.2193363457918167
+  },
+  {
+    "text": "what are the rules for traveling with toothpaste",
+    "gold": "carry_on",
+    "pred": "oos",
+    "confidence": 0.1855074167251587
+  },
+  {
+    "text": "can i fly with my razors or are there restrictions",
+    "gold": "carry_on",
+    "pred": "oos",
+    "confidence": 0.2387930005788803
+  },
+  {
+    "text": "i need to know how many days i toof off",
+    "gold": "pto_used",
+    "pred": "pto_balance",
+    "confidence": 0.6700938940048218
+  },
+  {
+    "text": "how much of my pto is left",
+    "gold": "pto_used",
+    "pred": "pto_balance",
+    "confidence": 0.7285218834877014
+  },
+  {
+    "text": "find out the next available date and time i can go to get my oil changed please",
+    "gold": "schedule_maintenance",
+    "pred": "oil_change_when",
+    "confidence": 0.8923041820526123
+  },
+  {
+    "text": "can you let me know the next open slot for me to get my oil changed",
+    "gold": "schedule_maintenance",
+    "pred": "oil_change_when",
+    "confidence": 0.47427982091903687
+  },
+  {
+    "text": "what is the next date for which i can get an oil change appointment",
+    "gold": "schedule_maintenance",
+    "pred": "oil_change_when",
+    "confidence": 0.8131585717201233
+  },
+  {
+    "text": "tell my bank's fraud department i'm going to mexico",
+    "gold": "travel_notification",
+    "pred": "report_fraud",
+    "confidence": 0.9534140825271606
+  },
+  {
+    "text": "i apprecaite the help from you",
+    "gold": "thank_you",
+    "pred": "what_can_i_ask_you",
+    "confidence": 0.8085088133811951
+  },
+  {
+    "text": "i appeciate it",
+    "gold": "thank_you",
+    "pred": "oos",
+    "confidence": 0.1848735511302948
+  },
+  {
+    "text": "what is the expiration date for those eg",
+    "gold": "food_last",
+    "pred": "expiration_date",
+    "confidence": 0.47422218322753906
+  },
+  {
+    "text": "how many minutes should i set an alarm for this bake",
+    "gold": "cook_time",
+    "pred": "alarm",
+    "confidence": 0.8785792589187622
+  },
+  {
+    "text": "when can i expect meal of salmon to be finished",
+    "gold": "cook_time",
+    "pred": "meal_suggestion",
+    "confidence": 0.38188114762306213
+  },
+  {
+    "text": "what are the minutes needed to cook the meal",
+    "gold": "cook_time",
+    "pred": "meal_suggestion",
+    "confidence": 0.5236120820045471
+  },
+  {
+    "text": "i want to be reminded to pay the electric bill",
+    "gold": "reminder_update",
+    "pred": "pay_bill",
+    "confidence": 0.6863788962364197
+  },
+  {
+    "text": "don't forget to tell me to call my mother",
+    "gold": "reminder_update",
+    "pred": "make_call",
+    "confidence": 0.8132634162902832
+  },
+  {
+    "text": "i don't want to forget to call mom",
+    "gold": "reminder_update",
+    "pred": "make_call",
+    "confidence": 0.8834424614906311
+  },
+  {
+    "text": "tell me later to call bill",
+    "gold": "reminder_update",
+    "pred": "make_call",
+    "confidence": 0.8023589253425598
+  },
+  {
+    "text": "can you remind me to finish a task",
+    "gold": "reminder_update",
+    "pred": "cancel",
+    "confidence": 0.502020001411438
+  },
+  {
+    "text": "my capital one visa was taken without permission",
+    "gold": "report_lost_card",
+    "pred": "oos",
+    "confidence": 0.2157154083251953
+  },
+  {
+    "text": "is it alright to switch applesauce for oil",
+    "gold": "ingredient_substitution",
+    "pred": "oil_change_how",
+    "confidence": 0.6946445107460022
+  },
+  {
+    "text": "will it still work if i use applesauce instead of oil",
+    "gold": "ingredient_substitution",
+    "pred": "oil_change_how",
+    "confidence": 0.6869438290596008
+  },
+  {
+    "text": "would it be ok to use butter instead of oil",
+    "gold": "ingredient_substitution",
+    "pred": "oil_change_how",
+    "confidence": 0.3871241807937622
+  },
+  {
+    "text": "is it ok to use oil spray instead of canola oil",
+    "gold": "ingredient_substitution",
+    "pred": "oil_change_how",
+    "confidence": 0.6051680445671082
+  },
+  {
+    "text": "i need to call my boss",
+    "gold": "make_call",
+    "pred": "who_do_you_work_for",
+    "confidence": 0.441811740398407
+  },
+  {
+    "text": "i need to up by noon",
+    "gold": "alarm",
+    "pred": "how_busy",
+    "confidence": 0.3233567178249359
+  },
+  {
+    "text": "have i told you to add washing dishes to my todo list",
+    "gold": "todo_list",
+    "pred": "todo_list_update",
+    "confidence": 0.9320701360702515
+  },
+  {
+    "text": "change to girl voice",
+    "gold": "change_accent",
+    "pred": "whisper_mode",
+    "confidence": 0.6925100684165955
+  },
+  {
+    "text": "please switch to the girl voice",
+    "gold": "change_accent",
+    "pred": "whisper_mode",
+    "confidence": 0.6562379598617554
+  },
+  {
+    "text": "what's the latest i can pay my cellular bill",
+    "gold": "bill_due",
+    "pred": "bill_balance",
+    "confidence": 0.5716536641120911
+  },
+  {
+    "text": "when is my cell phone due",
+    "gold": "bill_due",
+    "pred": "find_phone",
+    "confidence": 0.27418971061706543
+  },
+  {
+    "text": "when does the current billing cycle end",
+    "gold": "bill_due",
+    "pred": "oos",
+    "confidence": 0.5735788941383362
+  },
+  {
+    "text": "is the bill due",
+    "gold": "bill_due",
+    "pred": "bill_balance",
+    "confidence": 0.5158466100692749
+  },
+  {
+    "text": "i need to know the next billing date of my american express card",
+    "gold": "bill_due",
+    "pred": "replacement_card_duration",
+    "confidence": 0.48357251286506653
+  },
+  {
+    "text": "do they serve good tacos at the buffet",
+    "gold": "restaurant_reviews",
+    "pred": "restaurant_suggestion",
+    "confidence": 0.32673704624176025
+  },
+  {
+    "text": "my favorite, beef tacos at the buffet",
+    "gold": "restaurant_reviews",
+    "pred": "oos",
+    "confidence": 0.17485448718070984
+  },
+  {
+    "text": "they sold out of tacos at the buffet",
+    "gold": "restaurant_reviews",
+    "pred": "oos",
+    "confidence": 0.15646952390670776
+  },
+  {
+    "text": "yum, pulled pork tacos at the buffet",
+    "gold": "restaurant_reviews",
+    "pred": "oos",
+    "confidence": 0.21519331634044647
+  },
+  {
+    "text": "do people say per se is any good or not",
+    "gold": "restaurant_reviews",
+    "pred": "what_can_i_ask_you",
+    "confidence": 0.4046293795108795
+  },
+  {
+    "text": "how many stars does brasserie les halles have",
+    "gold": "restaurant_reviews",
+    "pred": "oos",
+    "confidence": 0.4313514530658722
+  },
+  {
+    "text": "what rating do the critics give the french laundry",
+    "gold": "restaurant_reviews",
+    "pred": "credit_score",
+    "confidence": 0.7083951830863953
+  },
+  {
+    "text": "is electricity the same in france",
+    "gold": "plug_type",
+    "pred": "bill_balance",
+    "confidence": 0.2725449502468109
+  },
+  {
+    "text": "does z used the same plus as we do in the united states",
+    "gold": "plug_type",
+    "pred": "oos",
+    "confidence": 0.6298496723175049
+  },
+  {
+    "text": "what's the exhange rate between mxn and gbp",
+    "gold": "exchange_rate",
+    "pred": "oos",
+    "confidence": 0.07219003885984421
+  },
+  {
+    "text": "how long do i have to wait to get a day off",
+    "gold": "next_holiday",
+    "pred": "how_busy",
+    "confidence": 0.9316807985305786
+  },
+  {
+    "text": "decrease your decibel level",
+    "gold": "change_volume",
+    "pred": "cancel",
+    "confidence": 0.40653684735298157
+  },
+  {
+    "text": "be more quiet",
+    "gold": "change_volume",
+    "pred": "cancel",
+    "confidence": 0.9232280850410461
+  },
+  {
+    "text": "speak up",
+    "gold": "change_volume",
+    "pred": "cancel",
+    "confidence": 0.7593648433685303
+  },
+  {
+    "text": "not so loud",
+    "gold": "change_volume",
+    "pred": "no",
+    "confidence": 0.2738335132598877
+  },
+  {
+    "text": "can you speak quieter",
+    "gold": "change_volume",
+    "pred": "whisper_mode",
+    "confidence": 0.6801968812942505
+  },
+  {
+    "text": "who is responsible for your employment",
+    "gold": "who_do_you_work_for",
+    "pred": "who_made_you",
+    "confidence": 0.5133392214775085
+  },
+  {
+    "text": "are you my insubordinate",
+    "gold": "who_do_you_work_for",
+    "pred": "oos",
+    "confidence": 0.15116795897483826
+  },
+  {
+    "text": "do i control you",
+    "gold": "who_do_you_work_for",
+    "pred": "what_can_i_ask_you",
+    "confidence": 0.49942547082901
+  },
+  {
+    "text": "is there another person that controls you",
+    "gold": "who_do_you_work_for",
+    "pred": "are_you_a_bot",
+    "confidence": 0.4524521231651306
+  },
+  {
+    "text": "who controls you",
+    "gold": "who_do_you_work_for",
+    "pred": "who_made_you",
+    "confidence": 0.5052929520606995
+  },
+  {
+    "text": "who employs you",
+    "gold": "who_do_you_work_for",
+    "pred": "who_made_you",
+    "confidence": 0.8028045892715454
+  },
+  {
+    "text": "what is the name of the place you work at",
+    "gold": "who_do_you_work_for",
+    "pred": "where_are_you_from",
+    "confidence": 0.8884957432746887
+  },
+  {
+    "text": "who can i talk to above you",
+    "gold": "who_do_you_work_for",
+    "pred": "oos",
+    "confidence": 0.21021005511283875
+  },
+  {
+    "text": "what is my credit max",
+    "gold": "credit_limit",
+    "pred": "credit_score",
+    "confidence": 0.3593178689479828
+  },
+  {
+    "text": "can i get a table for four at 8:00",
+    "gold": "how_busy",
+    "pred": "restaurant_reservation",
+    "confidence": 0.9186112284660339
+  },
+  {
+    "text": "is the friday's full after 4",
+    "gold": "how_busy",
+    "pred": "date",
+    "confidence": 0.8677472472190857
+  },
+  {
+    "text": "are cool people at the bar at 9:00 pm",
+    "gold": "how_busy",
+    "pred": "restaurant_reservation",
+    "confidence": 0.7045005559921265
+  },
+  {
+    "text": "what is the best time to go to get a burger without a line",
+    "gold": "how_busy",
+    "pred": "restaurant_suggestion",
+    "confidence": 0.39571717381477356
+  },
+  {
+    "text": "how long before i can eat at chic fil a",
+    "gold": "how_busy",
+    "pred": "cook_time",
+    "confidence": 0.48788800835609436
+  },
+  {
+    "text": "is the breakfast place full in the mornings",
+    "gold": "how_busy",
+    "pred": "food_last",
+    "confidence": 0.278739333152771
+  },
+  {
+    "text": "is mr joes pizza available for a seating",
+    "gold": "how_busy",
+    "pred": "oos",
+    "confidence": 0.17984524369239807
+  },
+  {
+    "text": "can you find out the waiting times for mr joes pizza",
+    "gold": "how_busy",
+    "pred": "restaurant_reservation",
+    "confidence": 0.3343653380870819
+  },
+  {
+    "text": "can i reserve tables at the new york restaurant",
+    "gold": "accept_reservations",
+    "pred": "restaurant_reservation",
+    "confidence": 0.43413156270980835
+  },
+  {
+    "text": "is it possible to reserve a table at white castle",
+    "gold": "accept_reservations",
+    "pred": "restaurant_reservation",
+    "confidence": 0.5101535320281982
+  },
+  {
+    "text": "do you think they'll let me reserve a table at the olive garden",
+    "gold": "accept_reservations",
+    "pred": "restaurant_reservation",
+    "confidence": 0.7391186952590942
+  },
+  {
+    "text": "can you help with delivery tracking",
+    "gold": "order_status",
+    "pred": "oos",
+    "confidence": 0.09668971598148346
+  },
+  {
+    "text": "i need a delivery tracked",
+    "gold": "order_status",
+    "pred": "oos",
+    "confidence": 0.1619691103696823
+  },
+  {
+    "text": "could you track an order for me",
+    "gold": "order_status",
+    "pred": "order",
+    "confidence": 0.7524321675300598
+  },
+  {
+    "text": "can you tell me when my item will get here",
+    "gold": "order_status",
+    "pred": "payday",
+    "confidence": 0.3095535337924957
+  },
+  {
+    "text": "can you tell me where my item is",
+    "gold": "order_status",
+    "pred": "oos",
+    "confidence": 0.20665472745895386
+  },
+  {
+    "text": "i would like to change the name on my checking account",
+    "gold": "pin_change",
+    "pred": "change_ai_name",
+    "confidence": 0.7755299210548401
+  },
+  {
+    "text": "i would like to change the name on my credit card account",
+    "gold": "pin_change",
+    "pred": "change_ai_name",
+    "confidence": 0.7364687919616699
+  },
+  {
+    "text": "i would like to change the name on my first hawaiian bank account",
+    "gold": "pin_change",
+    "pred": "change_ai_name",
+    "confidence": 0.8408474922180176
+  },
+  {
+    "text": "i would like to change the name on my first bankcard account",
+    "gold": "pin_change",
+    "pred": "change_ai_name",
+    "confidence": 0.7642545700073242
+  },
+  {
+    "text": "i would like to change the name on my capital one account",
+    "gold": "pin_change",
+    "pred": "change_ai_name",
+    "confidence": 0.889312207698822
+  },
+  {
+    "text": "change the code of my savings account to be 1234",
+    "gold": "pin_change",
+    "pred": "transfer",
+    "confidence": 0.4375525116920471
+  },
+  {
+    "text": "good speaking to you",
+    "gold": "goodbye",
+    "pred": "greeting",
+    "confidence": 0.34326839447021484
+  },
+  {
+    "text": "regards",
+    "gold": "goodbye",
+    "pred": "cancel",
+    "confidence": 0.2688514292240143
+  },
+  {
+    "text": "that will be all have a nice day!",
+    "gold": "goodbye",
+    "pred": "greeting",
+    "confidence": 0.2684786319732666
+  },
+  {
+    "text": "that's all i need, i'm going now",
+    "gold": "goodbye",
+    "pred": "greeting",
+    "confidence": 0.27129459381103516
+  },
+  {
+    "text": "signing off",
+    "gold": "goodbye",
+    "pred": "oos",
+    "confidence": 0.1909504234790802
+  },
+  {
+    "text": "did someone who is unauthorized try to get into my bank account",
+    "gold": "account_blocked",
+    "pred": "report_fraud",
+    "confidence": 0.3707796037197113
+  },
+  {
+    "text": "is it possible i have a meeting with kim today",
+    "gold": "meeting_schedule",
+    "pred": "schedule_meeting",
+    "confidence": 0.4926116466522217
+  },
+  {
+    "text": "give me a recipe for tacos",
+    "gold": "ingredients_list",
+    "pred": "recipe",
+    "confidence": 0.9333810210227966
+  },
+  {
+    "text": "what's a good recipe foe tacos",
+    "gold": "ingredients_list",
+    "pred": "recipe",
+    "confidence": 0.9072620272636414
+  },
+  {
+    "text": "how much flour do i need for a strawberry cake",
+    "gold": "ingredients_list",
+    "pred": "ingredient_substitution",
+    "confidence": 0.4828985333442688
+  },
+  {
+    "text": "what do i need to make authentic kimchi",
+    "gold": "ingredients_list",
+    "pred": "recipe",
+    "confidence": 0.5528871417045593
+  },
+  {
+    "text": "what am i gonna need for sushi",
+    "gold": "ingredients_list",
+    "pred": "recipe",
+    "confidence": 0.38566353917121887
+  },
+  {
+    "text": "pull up everything i need to make a pasta dish",
+    "gold": "ingredients_list",
+    "pred": "recipe",
+    "confidence": 0.39556342363357544
+  },
+  {
+    "text": "my bill shows a purchase from payless shoes but i didn't buy anything",
+    "gold": "report_fraud",
+    "pred": "pay_bill",
+    "confidence": 0.694932758808136
+  },
+  {
+    "text": "this charge is bs",
+    "gold": "report_fraud",
+    "pred": "international_fees",
+    "confidence": 0.29776349663734436
+  },
+  {
+    "text": "i have a bogus transaction from amazon on my account",
+    "gold": "report_fraud",
+    "pred": "transactions",
+    "confidence": 0.9192448854446411
+  },
+  {
+    "text": "i have a crap transaction from guitar center on my account",
+    "gold": "report_fraud",
+    "pred": "transactions",
+    "confidence": 0.9043859243392944
+  },
+  {
+    "text": "i think this transaction is bogus",
+    "gold": "report_fraud",
+    "pred": "transactions",
+    "confidence": 0.9266732931137085
+  },
+  {
+    "text": "i don't remember buying this",
+    "gold": "report_fraud",
+    "pred": "reminder",
+    "confidence": 0.7162390351295471
+  },
+  {
+    "text": "i have a bs transaction from ebay on my account",
+    "gold": "report_fraud",
+    "pred": "transactions",
+    "confidence": 0.930436372756958
+  },
+  {
+    "text": "i think someone jacked my bank account",
+    "gold": "report_fraud",
+    "pred": "account_blocked",
+    "confidence": 0.7642532587051392
+  },
+  {
+    "text": "someone else used my account to buy stuff from mcdonald's",
+    "gold": "report_fraud",
+    "pred": "account_blocked",
+    "confidence": 0.4955044090747833
+  },
+  {
+    "text": "there's a messed up transaction on my account from mcdonald's",
+    "gold": "report_fraud",
+    "pred": "transactions",
+    "confidence": 0.9062511920928955
+  },
+  {
+    "text": "how does measurement a convert to measurement b",
+    "gold": "measurement_conversion",
+    "pred": "oos",
+    "confidence": 0.19984687864780426
+  },
+  {
+    "text": "where can i find measurement conversions",
+    "gold": "measurement_conversion",
+    "pred": "oos",
+    "confidence": 0.24728691577911377
+  },
+  {
+    "text": "start the dishwasher",
+    "gold": "smart_home",
+    "pred": "dishwasher_issue",
+    "confidence": 0.8854280114173889
+  },
+  {
+    "text": "turn on the microwave for 3 minutes",
+    "gold": "smart_home",
+    "pred": "timer",
+    "confidence": 0.9478574991226196
+  },
+  {
+    "text": "i want the light less bright please",
+    "gold": "smart_home",
+    "pred": "oos",
+    "confidence": 0.1849076896905899
+  },
+  {
+    "text": "open map and pin point my location",
+    "gold": "current_location",
+    "pred": "pin_change",
+    "confidence": 0.7962644696235657
+  },
+  {
+    "text": "what could help me locate myself",
+    "gold": "current_location",
+    "pred": "oos",
+    "confidence": 0.1913105845451355
+  },
+  {
+    "text": "go to whisper mode until my morning alarm goes off",
+    "gold": "whisper_mode",
+    "pred": "alarm",
+    "confidence": 0.7266777157783508
+  },
+  {
+    "text": "can you see if i have any vacation days available for a request",
+    "gold": "pto_balance",
+    "pred": "pto_request",
+    "confidence": 0.7973500490188599
+  },
+  {
+    "text": "tell me how to spent \"frightened",
+    "gold": "spelling",
+    "pred": "spending_history",
+    "confidence": 0.873540461063385
+  },
+  {
+    "text": "who do i have the pleasure of speaking with",
+    "gold": "what_is_your_name",
+    "pred": "oos",
+    "confidence": 0.22817446291446686
+  },
+  {
+    "text": "who am i speaking with",
+    "gold": "what_is_your_name",
+    "pred": "oos",
+    "confidence": 0.22927458584308624
+  },
+  {
+    "text": "i'd like my checks to be deposited into my account directly, how do i do that",
+    "gold": "direct_deposit",
+    "pred": "order_checks",
+    "confidence": 0.9520424604415894
+  },
+  {
+    "text": "what's the apr on my savings account",
+    "gold": "interest_rate",
+    "pred": "apr",
+    "confidence": 0.9546434879302979
+  },
+  {
+    "text": "can i get more credit",
+    "gold": "credit_limit_change",
+    "pred": "improve_credit_score",
+    "confidence": 0.7601215839385986
+  },
+  {
+    "text": "what do you do on off days",
+    "gold": "what_are_your_hobbies",
+    "pred": "pto_balance",
+    "confidence": 0.3777209222316742
+  },
+  {
+    "text": "what do you do after work",
+    "gold": "what_are_your_hobbies",
+    "pred": "who_do_you_work_for",
+    "confidence": 0.7328759431838989
+  },
+  {
+    "text": "did i remember to put oatmeal on my list",
+    "gold": "shopping_list",
+    "pred": "todo_list",
+    "confidence": 0.9327830076217651
+  },
+  {
+    "text": "recite the items i'm planning to purchase",
+    "gold": "shopping_list",
+    "pred": "order",
+    "confidence": 0.7410147190093994
+  },
+  {
+    "text": "am i supposed to buy milk",
+    "gold": "shopping_list",
+    "pred": "order",
+    "confidence": 0.32892999053001404
+  },
+  {
+    "text": "is milk one of the things i need to buy",
+    "gold": "shopping_list",
+    "pred": "shopping_list_update",
+    "confidence": 0.3185161054134369
+  },
+  {
+    "text": "are carrots added to the grocery list",
+    "gold": "shopping_list",
+    "pred": "shopping_list_update",
+    "confidence": 0.9210798144340515
+  },
+  {
+    "text": "tell jim i'm coming home soon",
+    "gold": "text",
+    "pred": "distance",
+    "confidence": 0.4637297987937927
+  },
+  {
+    "text": "i want to tell susan that the meeting has been cancelled",
+    "gold": "text",
+    "pred": "meeting_schedule",
+    "confidence": 0.8022027611732483
+  },
+  {
+    "text": "tell fred that i don't have his guitar",
+    "gold": "text",
+    "pred": "play_music",
+    "confidence": 0.6706472039222717
+  },
+  {
+    "text": "how much is my water and sewer",
+    "gold": "bill_balance",
+    "pred": "gas",
+    "confidence": 0.5066291689872742
+  },
+  {
+    "text": "has my electricity bill increased this month how much",
+    "gold": "bill_balance",
+    "pred": "min_payment",
+    "confidence": 0.44310665130615234
+  },
+  {
+    "text": "how expensive is my internet",
+    "gold": "bill_balance",
+    "pred": "oos",
+    "confidence": 0.7068114280700684
+  },
+  {
+    "text": "how much do i have to pay this month",
+    "gold": "bill_balance",
+    "pred": "income",
+    "confidence": 0.6926739811897278
+  },
+  {
+    "text": "whens my insurance due and how much does it cost",
+    "gold": "bill_balance",
+    "pred": "bill_due",
+    "confidence": 0.7279154658317566
+  },
+  {
+    "text": "i'd like for this person to know my location",
+    "gold": "share_location",
+    "pred": "current_location",
+    "confidence": 0.8785085678100586
+  },
+  {
+    "text": "what is my current location",
+    "gold": "share_location",
+    "pred": "current_location",
+    "confidence": 0.935185968875885
+  },
+  {
+    "text": "show allison how to get to me",
+    "gold": "share_location",
+    "pred": "make_call",
+    "confidence": 0.47671255469322205
+  },
+  {
+    "text": "how do i get stuff with visa points",
+    "gold": "redeem_rewards",
+    "pred": "rewards_balance",
+    "confidence": 0.845934271812439
+  },
+  {
+    "text": "what are my mastercard points good for",
+    "gold": "redeem_rewards",
+    "pred": "rewards_balance",
+    "confidence": 0.6535481810569763
+  },
+  {
+    "text": "what are the steps to get my rewards for my visa card",
+    "gold": "redeem_rewards",
+    "pred": "rewards_balance",
+    "confidence": 0.951832115650177
+  },
+  {
+    "text": "how can i claim my rewards for my visa card",
+    "gold": "redeem_rewards",
+    "pred": "rewards_balance",
+    "confidence": 0.9520729184150696
+  },
+  {
+    "text": "how can i get my rewards for my master card",
+    "gold": "redeem_rewards",
+    "pred": "rewards_balance",
+    "confidence": 0.9519666433334351
+  },
+  {
+    "text": "where would i get my rewards for my master card",
+    "gold": "redeem_rewards",
+    "pred": "rewards_balance",
+    "confidence": 0.9527126550674438
+  },
+  {
+    "text": "what can i get with my mastercard points",
+    "gold": "redeem_rewards",
+    "pred": "rewards_balance",
+    "confidence": 0.46681341528892517
+  },
+  {
+    "text": "get me my slow sounds",
+    "gold": "play_music",
+    "pred": "change_speed",
+    "confidence": 0.9211949706077576
+  },
+  {
+    "text": "let me hear my slow songs",
+    "gold": "play_music",
+    "pred": "what_song",
+    "confidence": 0.2712489366531372
+  },
+  {
+    "text": "pull up the songs under slow",
+    "gold": "play_music",
+    "pred": "change_speed",
+    "confidence": 0.3233504295349121
+  },
+  {
+    "text": "i'm in the mood for slow songs and nothing else",
+    "gold": "play_music",
+    "pred": "change_speed",
+    "confidence": 0.3013988137245178
+  },
+  {
+    "text": "drop some beats",
+    "gold": "play_music",
+    "pred": "oos",
+    "confidence": 0.10436956584453583
+  },
+  {
+    "text": "turn on top 20 country hits",
+    "gold": "play_music",
+    "pred": "oos",
+    "confidence": 0.1924341917037964
+  },
+  {
+    "text": "turn on my tunes",
+    "gold": "play_music",
+    "pred": "oos",
+    "confidence": 0.17241717875003815
+  },
+  {
+    "text": "bump some jams",
+    "gold": "play_music",
+    "pred": "smart_home",
+    "confidence": 0.3015076220035553
+  },
+  {
+    "text": "turn on metallicas greatest hits",
+    "gold": "play_music",
+    "pred": "oos",
+    "confidence": 0.21717049181461334
+  },
+  {
+    "text": "put on my 90s playlist",
+    "gold": "play_music",
+    "pred": "update_playlist",
+    "confidence": 0.7061576247215271
+  },
+  {
+    "text": "what is the best way to remove this appointment",
+    "gold": "calendar_update",
+    "pred": "schedule_maintenance",
+    "confidence": 0.3929297924041748
+  },
+  {
+    "text": "can i get to susan's house with my current tank",
+    "gold": "gas",
+    "pred": "oos",
+    "confidence": 0.1428549885749817
+  },
+  {
+    "text": "when will my new credit card arrive",
+    "gold": "expiration_date",
+    "pred": "replacement_card_duration",
+    "confidence": 0.9250591993331909
+  },
+  {
+    "text": "when will my credit card no longer be good",
+    "gold": "expiration_date",
+    "pred": "replacement_card_duration",
+    "confidence": 0.6294448375701904
+  },
+  {
+    "text": "you are going to be called joe now",
+    "gold": "change_ai_name",
+    "pred": "change_user_name",
+    "confidence": 0.7554641962051392
+  },
+  {
+    "text": "start responding to joe",
+    "gold": "change_ai_name",
+    "pred": "make_call",
+    "confidence": 0.5929343700408936
+  },
+  {
+    "text": "i need options or italian tonight",
+    "gold": "meal_suggestion",
+    "pred": "oos",
+    "confidence": 0.09425818175077438
+  },
+  {
+    "text": "do you have any recommendations for korean",
+    "gold": "meal_suggestion",
+    "pred": "change_language",
+    "confidence": 0.33380818367004395
+  },
+  {
+    "text": "what kind of indian would you recommend",
+    "gold": "meal_suggestion",
+    "pred": "oos",
+    "confidence": 0.1502484828233719
+  },
+  {
+    "text": "what would you suggest for japanese",
+    "gold": "meal_suggestion",
+    "pred": "change_language",
+    "confidence": 0.8329625129699707
+  },
+  {
+    "text": "i need to know what's good for chinese around here",
+    "gold": "meal_suggestion",
+    "pred": "translate",
+    "confidence": 0.6130641102790833
+  },
+  {
+    "text": "i want to eat something from turkey",
+    "gold": "meal_suggestion",
+    "pred": "restaurant_suggestion",
+    "confidence": 0.5738946795463562
+  },
+  {
+    "text": "do you have any suggested roman recipes",
+    "gold": "meal_suggestion",
+    "pred": "recipe",
+    "confidence": 0.8232308626174927
+  },
+  {
+    "text": "what do i need to do to cook a chicken",
+    "gold": "recipe",
+    "pred": "ingredients_list",
+    "confidence": 0.8802748918533325
+  },
+  {
+    "text": "how do i go about cooking a 10lb turkey",
+    "gold": "recipe",
+    "pred": "cook_time",
+    "confidence": 0.25404614210128784
+  },
+  {
+    "text": "what instructions do i need to bake a cake from scratch",
+    "gold": "recipe",
+    "pred": "ingredients_list",
+    "confidence": 0.855211615562439
+  },
+  {
+    "text": "how do you prepare omelet",
+    "gold": "recipe",
+    "pred": "ingredients_list",
+    "confidence": 0.39339759945869446
+  },
+  {
+    "text": "how do you prepare taco",
+    "gold": "recipe",
+    "pred": "ingredients_list",
+    "confidence": 0.2966098487377167
+  },
+  {
+    "text": "please tell me a recipe for this meal",
+    "gold": "recipe",
+    "pred": "meal_suggestion",
+    "confidence": 0.7926670908927917
+  },
+  {
+    "text": "what do i take home",
+    "gold": "income",
+    "pred": "oos",
+    "confidence": 0.12342675030231476
+  },
+  {
+    "text": "what is my payment going to be",
+    "gold": "income",
+    "pred": "bill_balance",
+    "confidence": 0.39597287774086
+  },
+  {
+    "text": "place my order alexa",
+    "gold": "order",
+    "pred": "order_status",
+    "confidence": 0.8547831177711487
+  },
+  {
+    "text": "siri, place my amazon order",
+    "gold": "order",
+    "pred": "order_status",
+    "confidence": 0.9303547739982605
+  },
+  {
+    "text": "alexa, buy my grocery list",
+    "gold": "order",
+    "pred": "shopping_list_update",
+    "confidence": 0.5584010481834412
+  },
+  {
+    "text": "purchase grass seed from the store",
+    "gold": "order",
+    "pred": "shopping_list_update",
+    "confidence": 0.44866231083869934
+  },
+  {
+    "text": "where can i find bluetooth speakers",
+    "gold": "order",
+    "pred": "what_song",
+    "confidence": 0.6970316767692566
+  },
+  {
+    "text": "what is the price of bluetooth speakers on amazon",
+    "gold": "order",
+    "pred": "oos",
+    "confidence": 0.7403251528739929
+  },
+  {
+    "text": "why my card stop working",
+    "gold": "card_declined",
+    "pred": "damaged_card",
+    "confidence": 0.7185403108596802
+  },
+  {
+    "text": "i could not buy food using my card when i was in vietnam",
+    "gold": "card_declined",
+    "pred": "international_fees",
+    "confidence": 0.3120064437389374
+  },
+  {
+    "text": "why can't i use my credit card",
+    "gold": "card_declined",
+    "pred": "damaged_card",
+    "confidence": 0.42804625630378723
+  },
+  {
+    "text": "how come my credit card isn't working",
+    "gold": "card_declined",
+    "pred": "damaged_card",
+    "confidence": 0.3450123369693756
+  },
+  {
+    "text": "how much has the dow changed today",
+    "gold": "oos",
+    "pred": "income",
+    "confidence": 0.25176310539245605
+  },
+  {
+    "text": "how many prime numbers are there between 0 and 100",
+    "gold": "oos",
+    "pred": "calculator",
+    "confidence": 0.8699735999107361
+  },
+  {
+    "text": "can you dim the brightness of my screen",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.27732184529304504
+  },
+  {
+    "text": "what is the account number to the internet service i have",
+    "gold": "oos",
+    "pred": "account_blocked",
+    "confidence": 0.5487854480743408
+  },
+  {
+    "text": "what veggies can i pair with mushrooms",
+    "gold": "oos",
+    "pred": "ingredients_list",
+    "confidence": 0.7058887481689453
+  },
+  {
+    "text": "can you put the car in fuel efficient mode",
+    "gold": "oos",
+    "pred": "gas_type",
+    "confidence": 0.7852425575256348
+  },
+  {
+    "text": "at what age can someone get a card",
+    "gold": "oos",
+    "pred": "replacement_card_duration",
+    "confidence": 0.305007666349411
+  },
+  {
+    "text": "how do i get red wine out of a couch cushion",
+    "gold": "oos",
+    "pred": "food_last",
+    "confidence": 0.37132084369659424
+  },
+  {
+    "text": "who invented the internet",
+    "gold": "oos",
+    "pred": "who_made_you",
+    "confidence": 0.8782963752746582
+  },
+  {
+    "text": "how is my driving",
+    "gold": "oos",
+    "pred": "mpg",
+    "confidence": 0.7482707500457764
+  },
+  {
+    "text": "is the earth flat",
+    "gold": "oos",
+    "pred": "fun_fact",
+    "confidence": 0.369086354970932
+  },
+  {
+    "text": "what oil is best for chicken",
+    "gold": "oos",
+    "pred": "oil_change_how",
+    "confidence": 0.7937103509902954
+  },
+  {
+    "text": "has there been anything breaking this afternoon",
+    "gold": "oos",
+    "pred": "calendar",
+    "confidence": 0.3013063073158264
+  },
+  {
+    "text": "can you add a bag to my reservation",
+    "gold": "oos",
+    "pred": "cancel_reservation",
+    "confidence": 0.42601534724235535
+  },
+  {
+    "text": "wash windshield",
+    "gold": "oos",
+    "pred": "washer_issue",
+    "confidence": 0.5786401033401489
+  },
+  {
+    "text": "can you tell me what credit cards i have open",
+    "gold": "oos",
+    "pred": "new_card",
+    "confidence": 0.6002476215362549
+  },
+  {
+    "text": "can you find the answer to number 26 in this algebra two textbook",
+    "gold": "oos",
+    "pred": "calculator",
+    "confidence": 0.799143373966217
+  },
+  {
+    "text": "what are some things i can do on the way to work",
+    "gold": "oos",
+    "pred": "what_are_your_hobbies",
+    "confidence": 0.532821774482727
+  },
+  {
+    "text": "how many steps have i taken today",
+    "gold": "oos",
+    "pred": "pto_used",
+    "confidence": 0.8402864336967468
+  },
+  {
+    "text": "can you fill in my credit card number on the screen",
+    "gold": "oos",
+    "pred": "redeem_rewards",
+    "confidence": 0.6323767900466919
+  },
+  {
+    "text": "is anything being newscasted about the threat of famine in chadu",
+    "gold": "oos",
+    "pred": "weather",
+    "confidence": 0.25463438034057617
+  },
+  {
+    "text": "what are the different types of tvs",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.5035451650619507
+  },
+  {
+    "text": "how many miles does my car currently have",
+    "gold": "oos",
+    "pred": "mpg",
+    "confidence": 0.6513508558273315
+  },
+  {
+    "text": "close all internet tabs",
+    "gold": "oos",
+    "pred": "cancel",
+    "confidence": 0.4341142177581787
+  },
+  {
+    "text": "read text",
+    "gold": "oos",
+    "pred": "text",
+    "confidence": 0.9376689791679382
+  },
+  {
+    "text": "park the car",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.43463993072509766
+  },
+  {
+    "text": "may i finish washing then i give you please",
+    "gold": "oos",
+    "pred": "washer_issue",
+    "confidence": 0.7664263248443604
+  },
+  {
+    "text": "can you delete my saved credit card",
+    "gold": "oos",
+    "pred": "damaged_card",
+    "confidence": 0.4007761478424072
+  },
+  {
+    "text": "which company has gone up the most today",
+    "gold": "oos",
+    "pred": "who_made_you",
+    "confidence": 0.7678943276405334
+  },
+  {
+    "text": "can you tell me how to clean a fish tank",
+    "gold": "oos",
+    "pred": "ingredients_list",
+    "confidence": 0.3764428198337555
+  },
+  {
+    "text": "i need to update my address",
+    "gold": "oos",
+    "pred": "share_location",
+    "confidence": 0.3813333213329315
+  },
+  {
+    "text": "which airports do southwest service around the greater new york city area",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.3939834535121918
+  },
+  {
+    "text": "where does jelly come from",
+    "gold": "oos",
+    "pred": "where_are_you_from",
+    "confidence": 0.4264713525772095
+  },
+  {
+    "text": "can you tell me the s&p average",
+    "gold": "oos",
+    "pred": "spelling",
+    "confidence": 0.32979679107666016
+  },
+  {
+    "text": "has ko gone up or down",
+    "gold": "oos",
+    "pred": "cancel",
+    "confidence": 0.42466872930526733
+  },
+  {
+    "text": "how many cars average are on the road daily",
+    "gold": "oos",
+    "pred": "mpg",
+    "confidence": 0.31906887888908386
+  },
+  {
+    "text": "what is my checking account number",
+    "gold": "oos",
+    "pred": "balance",
+    "confidence": 0.7785972952842712
+  },
+  {
+    "text": "when should i remove my snow tires",
+    "gold": "oos",
+    "pred": "tire_change",
+    "confidence": 0.27807295322418213
+  },
+  {
+    "text": "what is the fee for a cash advance",
+    "gold": "oos",
+    "pred": "international_fees",
+    "confidence": 0.651929497718811
+  },
+  {
+    "text": "tell me about the earthquake in california that happened this morning",
+    "gold": "oos",
+    "pred": "weather",
+    "confidence": 0.5259218811988831
+  },
+  {
+    "text": "can i deposit a check",
+    "gold": "oos",
+    "pred": "direct_deposit",
+    "confidence": 0.8815738558769226
+  },
+  {
+    "text": "go and check the fridge",
+    "gold": "oos",
+    "pred": "fridge_issue",
+    "confidence": 0.5946689248085022
+  },
+  {
+    "text": "can you tell me the score of the heat game",
+    "gold": "oos",
+    "pred": "credit_score",
+    "confidence": 0.8802603483200073
+  },
+  {
+    "text": "can you tell me how to multiply two fractions",
+    "gold": "oos",
+    "pred": "calculator",
+    "confidence": 0.35734137892723083
+  },
+  {
+    "text": "i want to find a new car under $25000",
+    "gold": "oos",
+    "pred": "car_rental",
+    "confidence": 0.8057534098625183
+  },
+  {
+    "text": "when is the next full moon",
+    "gold": "oos",
+    "pred": "weather",
+    "confidence": 0.4108427166938782
+  },
+  {
+    "text": "how do i change the windshield wipers",
+    "gold": "oos",
+    "pred": "tire_change",
+    "confidence": 0.29484236240386963
+  },
+  {
+    "text": "why is the sky blue",
+    "gold": "oos",
+    "pred": "weather",
+    "confidence": 0.2772824764251709
+  },
+  {
+    "text": "should i do a complete stop at red lights",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.8233404755592346
+  },
+  {
+    "text": "are all televisions high definition",
+    "gold": "oos",
+    "pred": "definition",
+    "confidence": 0.9293169975280762
+  },
+  {
+    "text": "who invented custardo",
+    "gold": "oos",
+    "pred": "who_made_you",
+    "confidence": 0.47813108563423157
+  },
+  {
+    "text": "how to be millionare",
+    "gold": "oos",
+    "pred": "calculator",
+    "confidence": 0.5021436810493469
+  },
+  {
+    "text": "can you tell me how to get gum out of my rug",
+    "gold": "oos",
+    "pred": "ingredients_list",
+    "confidence": 0.540558934211731
+  },
+  {
+    "text": "it is white colour",
+    "gold": "oos",
+    "pred": "definition",
+    "confidence": 0.24435880780220032
+  },
+  {
+    "text": "how much time do i have left on my 0% apr",
+    "gold": "oos",
+    "pred": "apr",
+    "confidence": 0.946819543838501
+  },
+  {
+    "text": "what time do i need to arrive to make it on time",
+    "gold": "oos",
+    "pred": "time",
+    "confidence": 0.43292543292045593
+  },
+  {
+    "text": "how many hurricanes are in an average hurricane season",
+    "gold": "oos",
+    "pred": "weather",
+    "confidence": 0.3568089008331299
+  },
+  {
+    "text": "how many items are in a bakers dozen",
+    "gold": "oos",
+    "pred": "ingredients_list",
+    "confidence": 0.36523374915122986
+  },
+  {
+    "text": "what articles are written at the cnn site about the women's march",
+    "gold": "oos",
+    "pred": "restaurant_reviews",
+    "confidence": 0.31719762086868286
+  },
+  {
+    "text": "when does napa close",
+    "gold": "oos",
+    "pred": "how_busy",
+    "confidence": 0.2561374306678772
+  },
+  {
+    "text": "what is the current price of tsla",
+    "gold": "oos",
+    "pred": "income",
+    "confidence": 0.5337406992912292
+  },
+  {
+    "text": "what battery percentage is my phone at",
+    "gold": "oos",
+    "pred": "jump_start",
+    "confidence": 0.5156974196434021
+  },
+  {
+    "text": "can you sign out of my bank login",
+    "gold": "oos",
+    "pred": "account_blocked",
+    "confidence": 0.41222503781318665
+  },
+  {
+    "text": "what is one standard deviation",
+    "gold": "oos",
+    "pred": "definition",
+    "confidence": 0.5362722277641296
+  },
+  {
+    "text": "what is the cashback rate for my credit card",
+    "gold": "oos",
+    "pred": "redeem_rewards",
+    "confidence": 0.45520153641700745
+  },
+  {
+    "text": "how fast am i going",
+    "gold": "oos",
+    "pred": "change_speed",
+    "confidence": 0.8141868114471436
+  },
+  {
+    "text": "how much memory do i have left on this phone",
+    "gold": "oos",
+    "pred": "find_phone",
+    "confidence": 0.6866025328636169
+  },
+  {
+    "text": "can i set up mobile deposits",
+    "gold": "oos",
+    "pred": "direct_deposit",
+    "confidence": 0.917991578578949
+  },
+  {
+    "text": "what bills is congress talking about passing or blocking today",
+    "gold": "oos",
+    "pred": "bill_balance",
+    "confidence": 0.5574082136154175
+  },
+  {
+    "text": "how do i add someone to my account",
+    "gold": "oos",
+    "pred": "freeze_account",
+    "confidence": 0.4707508683204651
+  },
+  {
+    "text": "how much money would my house sell for",
+    "gold": "oos",
+    "pred": "income",
+    "confidence": 0.5121411681175232
+  },
+  {
+    "text": "how do i install new cabinets",
+    "gold": "oos",
+    "pred": "reset_settings",
+    "confidence": 0.49240195751190186
+  },
+  {
+    "text": "is there a fee for cancelling a flight i've booked",
+    "gold": "oos",
+    "pred": "flight_status",
+    "confidence": 0.38060444593429565
+  },
+  {
+    "text": "delete the contact uncle john from my phone",
+    "gold": "oos",
+    "pred": "sync_device",
+    "confidence": 0.6299224495887756
+  },
+  {
+    "text": "search my contacts for the auto repair place",
+    "gold": "oos",
+    "pred": "schedule_maintenance",
+    "confidence": 0.5860366225242615
+  },
+  {
+    "text": "does my carrier have coverage in europe",
+    "gold": "oos",
+    "pred": "travel_alert",
+    "confidence": 0.2853125035762787
+  },
+  {
+    "text": "what are the limits in my phone plan",
+    "gold": "oos",
+    "pred": "find_phone",
+    "confidence": 0.5697537660598755
+  },
+  {
+    "text": "is there a way to change your houses address",
+    "gold": "oos",
+    "pred": "change_ai_name",
+    "confidence": 0.8319761753082275
+  },
+  {
+    "text": "does dhl deliver to my address",
+    "gold": "oos",
+    "pred": "share_location",
+    "confidence": 0.7090016603469849
+  },
+  {
+    "text": "how frequently is the bus running today",
+    "gold": "oos",
+    "pred": "distance",
+    "confidence": 0.6936755776405334
+  },
+  {
+    "text": "is there a better bus route i should be taking",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.9196372032165527
+  },
+  {
+    "text": "what stores are at my local mall",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.25735265016555786
+  },
+  {
+    "text": "i need to get kalee added to my phone plan",
+    "gold": "oos",
+    "pred": "sync_device",
+    "confidence": 0.8749639391899109
+  },
+  {
+    "text": "what is the price of other company's similar phone plans",
+    "gold": "oos",
+    "pred": "sync_device",
+    "confidence": 0.47239217162132263
+  },
+  {
+    "text": "how long do i have to wait to get my refund",
+    "gold": "oos",
+    "pred": "how_busy",
+    "confidence": 0.8890052437782288
+  },
+  {
+    "text": "how long does it take the irs to issue a tax refund",
+    "gold": "oos",
+    "pred": "taxes",
+    "confidence": 0.5355438590049744
+  },
+  {
+    "text": "do you know if it is possible to close my savings account",
+    "gold": "oos",
+    "pred": "freeze_account",
+    "confidence": 0.7259606122970581
+  },
+  {
+    "text": "how hard is it to close a bank account at wells fargo",
+    "gold": "oos",
+    "pred": "account_blocked",
+    "confidence": 0.6261154413223267
+  },
+  {
+    "text": "i would like to upgrade to full coverage for my car",
+    "gold": "oos",
+    "pred": "schedule_maintenance",
+    "confidence": 0.5099779367446899
+  },
+  {
+    "text": "who has the cheapest insurance for my model car in the area",
+    "gold": "oos",
+    "pred": "insurance",
+    "confidence": 0.5942868590354919
+  },
+  {
+    "text": "where can i list my vehicle for sell",
+    "gold": "oos",
+    "pred": "car_rental",
+    "confidence": 0.5665290355682373
+  },
+  {
+    "text": "i need to add a person to my bank account",
+    "gold": "oos",
+    "pred": "freeze_account",
+    "confidence": 0.8725376725196838
+  },
+  {
+    "text": "what's the way for delta to cancel a flight",
+    "gold": "oos",
+    "pred": "flight_status",
+    "confidence": 0.29755616188049316
+  },
+  {
+    "text": "read the phone number for mom in my phone contacts",
+    "gold": "oos",
+    "pred": "make_call",
+    "confidence": 0.6117578744888306
+  },
+  {
+    "text": "create a contact labeled mom",
+    "gold": "oos",
+    "pred": "make_call",
+    "confidence": 0.6188364028930664
+  },
+  {
+    "text": "do other providers have better coverage than my cell carrier",
+    "gold": "oos",
+    "pred": "insurance",
+    "confidence": 0.29761984944343567
+  },
+  {
+    "text": "is there an alternate bus stop close to my home i can use",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.9269026517868042
+  },
+  {
+    "text": "add mary to my phone plan, please",
+    "gold": "oos",
+    "pred": "sync_device",
+    "confidence": 0.8105800747871399
+  },
+  {
+    "text": "how much is it to get more data on my phone plan",
+    "gold": "oos",
+    "pred": "find_phone",
+    "confidence": 0.3704530894756317
+  },
+  {
+    "text": "can i use direct deposit for my tax refund",
+    "gold": "oos",
+    "pred": "direct_deposit",
+    "confidence": 0.4268651008605957
+  },
+  {
+    "text": "how much of a refund will i get this year",
+    "gold": "oos",
+    "pred": "income",
+    "confidence": 0.5818195343017578
+  },
+  {
+    "text": "please take all my money out of my checking account and close the account",
+    "gold": "oos",
+    "pred": "transfer",
+    "confidence": 0.4064107835292816
+  },
+  {
+    "text": "what are cars like mine selling for online",
+    "gold": "oos",
+    "pred": "plug_type",
+    "confidence": 0.2673056125640869
+  },
+  {
+    "text": "what are the last 4 digits of my credit card number",
+    "gold": "oos",
+    "pred": "redeem_rewards",
+    "confidence": 0.34110361337661743
+  },
+  {
+    "text": "switch over to low power mode to preserve battery life",
+    "gold": "oos",
+    "pred": "jump_start",
+    "confidence": 0.9374275803565979
+  },
+  {
+    "text": "what is the cheapest new car for this year",
+    "gold": "oos",
+    "pred": "mpg",
+    "confidence": 0.6542363166809082
+  },
+  {
+    "text": "i need to find a black suit under $100",
+    "gold": "oos",
+    "pred": "calculator",
+    "confidence": 0.767352819442749
+  },
+  {
+    "text": "which element on the periodic table is k",
+    "gold": "oos",
+    "pred": "cancel_reservation",
+    "confidence": 0.7030203342437744
+  },
+  {
+    "text": "look up prices for parking at the airport over the weekend",
+    "gold": "oos",
+    "pred": "distance",
+    "confidence": 0.3099105656147003
+  },
+  {
+    "text": "what is the best way for dealing with the airport",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.4718497395515442
+  },
+  {
+    "text": "can you check my voicemail",
+    "gold": "oos",
+    "pred": "find_phone",
+    "confidence": 0.4742085933685303
+  },
+  {
+    "text": "i would like to know how long a charge is suppose to last on my phone",
+    "gold": "oos",
+    "pred": "last_maintenance",
+    "confidence": 0.2964727282524109
+  },
+  {
+    "text": "check battery health on this device",
+    "gold": "oos",
+    "pred": "jump_start",
+    "confidence": 0.9454697966575623
+  },
+  {
+    "text": "what is the most rented movie this week",
+    "gold": "oos",
+    "pred": "spending_history",
+    "confidence": 0.3199913501739502
+  },
+  {
+    "text": "can you give me suggestions for a professional suit under $200",
+    "gold": "oos",
+    "pred": "calculator",
+    "confidence": 0.3808208107948303
+  },
+  {
+    "text": "when is it cheapest to travel to hawaii",
+    "gold": "oos",
+    "pred": "travel_suggestion",
+    "confidence": 0.5595082640647888
+  },
+  {
+    "text": "i need a laptop with 16gb of ram",
+    "gold": "oos",
+    "pred": "calculator",
+    "confidence": 0.5165591835975647
+  },
+  {
+    "text": "what is the best reviewed laptop available on the market",
+    "gold": "oos",
+    "pred": "restaurant_reviews",
+    "confidence": 0.3293605148792267
+  },
+  {
+    "text": "give me information about the element carbon and its reactions with hydrogen",
+    "gold": "oos",
+    "pred": "gas_type",
+    "confidence": 0.32338836789131165
+  },
+  {
+    "text": "how do i best deal with the airport",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.34103310108184814
+  },
+  {
+    "text": "remind me of the address for my workplace please",
+    "gold": "oos",
+    "pred": "reminder_update",
+    "confidence": 0.8732137084007263
+  },
+  {
+    "text": "what time do i have to go to work today",
+    "gold": "oos",
+    "pred": "pto_balance",
+    "confidence": 0.4081364572048187
+  },
+  {
+    "text": "how many voicemail messages do i have",
+    "gold": "oos",
+    "pred": "spelling",
+    "confidence": 0.2591254413127899
+  },
+  {
+    "text": "what is money used for",
+    "gold": "oos",
+    "pred": "income",
+    "confidence": 0.29114997386932373
+  },
+  {
+    "text": "what are some good methods of relieving stress",
+    "gold": "oos",
+    "pred": "what_can_i_ask_you",
+    "confidence": 0.25192639231681824
+  },
+  {
+    "text": "how do you make sure a bridge doesn't fall down",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.3230414092540741
+  },
+  {
+    "text": "what is the median salary for someone with an engineering degree",
+    "gold": "oos",
+    "pred": "income",
+    "confidence": 0.7859562635421753
+  },
+  {
+    "text": "why would the water be turned off",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.4374798536300659
+  },
+  {
+    "text": "what does water taste like",
+    "gold": "oos",
+    "pred": "ingredients_list",
+    "confidence": 0.3856031000614166
+  },
+  {
+    "text": "when was my lawn last mowed",
+    "gold": "oos",
+    "pred": "last_maintenance",
+    "confidence": 0.42557424306869507
+  },
+  {
+    "text": "can you tell me the best time to visit downtown when driving",
+    "gold": "oos",
+    "pred": "travel_suggestion",
+    "confidence": 0.25812453031539917
+  },
+  {
+    "text": "check the status of my amazon orders for me",
+    "gold": "oos",
+    "pred": "order_status",
+    "confidence": 0.9527902007102966
+  },
+  {
+    "text": "what is the official language of romania",
+    "gold": "oos",
+    "pred": "change_language",
+    "confidence": 0.9177037477493286
+  },
+  {
+    "text": "show me the best times to book flights for traveling to another country",
+    "gold": "oos",
+    "pred": "book_flight",
+    "confidence": 0.917988657951355
+  },
+  {
+    "text": "disconnect from wifi immediately please",
+    "gold": "oos",
+    "pred": "cancel",
+    "confidence": 0.5673525333404541
+  },
+  {
+    "text": "list the contents of my safety deposit box at the bank",
+    "gold": "oos",
+    "pred": "direct_deposit",
+    "confidence": 0.7495424747467041
+  },
+  {
+    "text": "what's the more secure bank vault",
+    "gold": "oos",
+    "pred": "freeze_account",
+    "confidence": 0.3488573431968689
+  },
+  {
+    "text": "what coupons do i have for restaurants",
+    "gold": "oos",
+    "pred": "restaurant_suggestion",
+    "confidence": 0.8201572895050049
+  },
+  {
+    "text": "how do i make money",
+    "gold": "oos",
+    "pred": "income",
+    "confidence": 0.33514854311943054
+  },
+  {
+    "text": "can you give me some stress management tips",
+    "gold": "oos",
+    "pred": "washer_issue",
+    "confidence": 0.25928574800491333
+  },
+  {
+    "text": "find engineering programs to apply to",
+    "gold": "oos",
+    "pred": "insurance_change",
+    "confidence": 0.5774874687194824
+  },
+  {
+    "text": "check to see how many miles are on my car",
+    "gold": "oos",
+    "pred": "mpg",
+    "confidence": 0.549375057220459
+  },
+  {
+    "text": "how do i change my windshield wipers",
+    "gold": "oos",
+    "pred": "tire_change",
+    "confidence": 0.2951470613479614
+  },
+  {
+    "text": "what color is water",
+    "gold": "oos",
+    "pred": "definition",
+    "confidence": 0.3653816878795624
+  },
+  {
+    "text": "is anything on my grocery list on sale today",
+    "gold": "oos",
+    "pred": "shopping_list",
+    "confidence": 0.8583129048347473
+  },
+  {
+    "text": "how long does it take for grass seed to grow on my lawn",
+    "gold": "oos",
+    "pred": "cook_time",
+    "confidence": 0.5646906495094299
+  },
+  {
+    "text": "what are the best personal finance practices",
+    "gold": "oos",
+    "pred": "insurance",
+    "confidence": 0.3464222252368927
+  },
+  {
+    "text": "will amazon ship an order even if there was a pricing mistake",
+    "gold": "oos",
+    "pred": "order_status",
+    "confidence": 0.33228251338005066
+  },
+  {
+    "text": "what are some of the most visited countries for people looking to travel abroad",
+    "gold": "oos",
+    "pred": "travel_suggestion",
+    "confidence": 0.4755996763706207
+  },
+  {
+    "text": "if i'm locked in a bank vault what's the best way to get out",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.31538575887680054
+  },
+  {
+    "text": "is it ok to feed dogs people food",
+    "gold": "oos",
+    "pred": "do_you_have_pets",
+    "confidence": 0.4002610146999359
+  },
+  {
+    "text": "can you tell me local crime in my area",
+    "gold": "oos",
+    "pred": "report_fraud",
+    "confidence": 0.5587928891181946
+  },
+  {
+    "text": "what's the power consumption of my fridge",
+    "gold": "oos",
+    "pred": "food_last",
+    "confidence": 0.36664891242980957
+  },
+  {
+    "text": "what is the warranty on my microwave",
+    "gold": "oos",
+    "pred": "warranty_repair",
+    "confidence": 0.8755722045898438
+  },
+  {
+    "text": "how do you get red wine out of the carpet",
+    "gold": "oos",
+    "pred": "ingredients_list",
+    "confidence": 0.3583602011203766
+  },
+  {
+    "text": "what time did my daughter get home from her date",
+    "gold": "oos",
+    "pred": "last_maintenance",
+    "confidence": 0.33093103766441345
+  },
+  {
+    "text": "is my computer free from viruses",
+    "gold": "oos",
+    "pred": "are_you_a_bot",
+    "confidence": 0.45795848965644836
+  },
+  {
+    "text": "are you allowed to call someone a dirty name as part of free speech",
+    "gold": "oos",
+    "pred": "make_call",
+    "confidence": 0.3194150924682617
+  },
+  {
+    "text": "can you really get arrested for yelling fire in a crowded theater",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.4075204133987427
+  },
+  {
+    "text": "what's the average score on a round of golf",
+    "gold": "oos",
+    "pred": "credit_score",
+    "confidence": 0.9349400997161865
+  },
+  {
+    "text": "where is the closest driving range",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.8305515646934509
+  },
+  {
+    "text": "when does tiger woods play next",
+    "gold": "oos",
+    "pred": "next_song",
+    "confidence": 0.6850060224533081
+  },
+  {
+    "text": "are your step-parent's parents considered your grandparents",
+    "gold": "oos",
+    "pred": "are_you_a_bot",
+    "confidence": 0.4683432877063751
+  },
+  {
+    "text": "what is harry's real name",
+    "gold": "oos",
+    "pred": "change_ai_name",
+    "confidence": 0.31235429644584656
+  },
+  {
+    "text": "where's the best place to hike in the rockies",
+    "gold": "oos",
+    "pred": "travel_suggestion",
+    "confidence": 0.8513707518577576
+  },
+  {
+    "text": "what should i wear to hike",
+    "gold": "oos",
+    "pred": "travel_suggestion",
+    "confidence": 0.26616737246513367
+  },
+  {
+    "text": "how old is jennifer aniston",
+    "gold": "oos",
+    "pred": "how_old_are_you",
+    "confidence": 0.8999204039573669
+  },
+  {
+    "text": "what causes dyslexia",
+    "gold": "oos",
+    "pred": "nutrition_info",
+    "confidence": 0.30417677760124207
+  },
+  {
+    "text": "is insomnia curable",
+    "gold": "oos",
+    "pred": "definition",
+    "confidence": 0.25708669424057007
+  },
+  {
+    "text": "where is te lawrence",
+    "gold": "oos",
+    "pred": "share_location",
+    "confidence": 0.8799580931663513
+  },
+  {
+    "text": "who is jane goodall",
+    "gold": "oos",
+    "pred": "who_made_you",
+    "confidence": 0.29975733160972595
+  },
+  {
+    "text": "how long does it take to get your yellow belt in karate",
+    "gold": "oos",
+    "pred": "cook_time",
+    "confidence": 0.24048879742622375
+  },
+  {
+    "text": "what's the proper subject verb order in japanese",
+    "gold": "oos",
+    "pred": "change_language",
+    "confidence": 0.6381093859672546
+  },
+  {
+    "text": "the bus moves with tyre",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.9016741514205933
+  },
+  {
+    "text": "how the bus moves",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.9296148419380188
+  },
+  {
+    "text": "what are some good resources to learn about mental illness",
+    "gold": "oos",
+    "pred": "tell_joke",
+    "confidence": 0.280547559261322
+  },
+  {
+    "text": "how can i get help for my mental health",
+    "gold": "oos",
+    "pred": "insurance",
+    "confidence": 0.9505813121795654
+  },
+  {
+    "text": "send information on flood clean up to my phone",
+    "gold": "oos",
+    "pred": "sync_device",
+    "confidence": 0.874056875705719
+  },
+  {
+    "text": "what is the safest model of airplane to fly in",
+    "gold": "oos",
+    "pred": "travel_alert",
+    "confidence": 0.5589168667793274
+  },
+  {
+    "text": "where can i buy new shingles",
+    "gold": "oos",
+    "pred": "order",
+    "confidence": 0.37653791904449463
+  },
+  {
+    "text": "what's the safest pet to be around toddlers",
+    "gold": "oos",
+    "pred": "travel_alert",
+    "confidence": 0.2849505543708801
+  },
+  {
+    "text": "why is my dog vomiting after eating",
+    "gold": "oos",
+    "pred": "food_last",
+    "confidence": 0.6500424146652222
+  },
+  {
+    "text": "what's the average rent of apartments in my city",
+    "gold": "oos",
+    "pred": "car_rental",
+    "confidence": 0.5150708556175232
+  },
+  {
+    "text": "are there any apartments for rent nearby",
+    "gold": "oos",
+    "pred": "car_rental",
+    "confidence": 0.7516383528709412
+  },
+  {
+    "text": "where is the closest architecture college",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.43108585476875305
+  },
+  {
+    "text": "what are the lowest prices of bottled water at costco",
+    "gold": "oos",
+    "pred": "min_payment",
+    "confidence": 0.29179540276527405
+  },
+  {
+    "text": "how do they filter pollutants out of bottled water",
+    "gold": "oos",
+    "pred": "gas_type",
+    "confidence": 0.42012736201286316
+  },
+  {
+    "text": "what's the cost to have a business card printed",
+    "gold": "oos",
+    "pred": "replacement_card_duration",
+    "confidence": 0.24680329859256744
+  },
+  {
+    "text": "when can i get a business card printed locally",
+    "gold": "oos",
+    "pred": "replacement_card_duration",
+    "confidence": 0.8513978719711304
+  },
+  {
+    "text": "what to use to design my business cards",
+    "gold": "oos",
+    "pred": "new_card",
+    "confidence": 0.6084932088851929
+  },
+  {
+    "text": "download all the photos off my phone into the cloud",
+    "gold": "oos",
+    "pred": "sync_device",
+    "confidence": 0.9136610627174377
+  },
+  {
+    "text": "tell me about that kind of cameras",
+    "gold": "oos",
+    "pred": "fun_fact",
+    "confidence": 0.27310824394226074
+  },
+  {
+    "text": "how much candy have i consumed this week",
+    "gold": "oos",
+    "pred": "spending_history",
+    "confidence": 0.4940482974052429
+  },
+  {
+    "text": "how many flavors of mnm's are there",
+    "gold": "oos",
+    "pred": "ingredients_list",
+    "confidence": 0.4878818988800049
+  },
+  {
+    "text": "how safe is it to consume the substance h2o",
+    "gold": "oos",
+    "pred": "spelling",
+    "confidence": 0.24002964794635773
+  },
+  {
+    "text": "how many elements are on the periodic table",
+    "gold": "oos",
+    "pred": "cancel_reservation",
+    "confidence": 0.4625054895877838
+  },
+  {
+    "text": "look up some christmas songs for me",
+    "gold": "oos",
+    "pred": "what_song",
+    "confidence": 0.42763853073120117
+  },
+  {
+    "text": "how many calories does doing 20 situps burn",
+    "gold": "oos",
+    "pred": "calories",
+    "confidence": 0.966360330581665
+  },
+  {
+    "text": "should i run every day",
+    "gold": "oos",
+    "pred": "date",
+    "confidence": 0.6820576190948486
+  },
+  {
+    "text": "how many months do i left in my hbo subscription",
+    "gold": "oos",
+    "pred": "balance",
+    "confidence": 0.37572750449180603
+  },
+  {
+    "text": "cancel my subscription to scientific american",
+    "gold": "oos",
+    "pred": "cancel_reservation",
+    "confidence": 0.5611737966537476
+  },
+  {
+    "text": "what's the best make-up to cover a black eye",
+    "gold": "oos",
+    "pred": "recipe",
+    "confidence": 0.3071921467781067
+  },
+  {
+    "text": "how do i make a sentence have stylized strike out in microsoft word",
+    "gold": "oos",
+    "pred": "spelling",
+    "confidence": 0.6243376135826111
+  },
+  {
+    "text": "what was the original name of jesus in egyptian myth",
+    "gold": "oos",
+    "pred": "what_is_your_name",
+    "confidence": 0.3831023871898651
+  },
+  {
+    "text": "was the god osiris a titan or an old god",
+    "gold": "oos",
+    "pred": "are_you_a_bot",
+    "confidence": 0.3734755516052246
+  },
+  {
+    "text": "tell me who aphrodite is",
+    "gold": "oos",
+    "pred": "user_name",
+    "confidence": 0.24233785271644592
+  },
+  {
+    "text": "what activities can i to do outside today",
+    "gold": "oos",
+    "pred": "todo_list",
+    "confidence": 0.2842112183570862
+  },
+  {
+    "text": "can you check how many miles i walked today when i was out get the info from my phone",
+    "gold": "oos",
+    "pred": "find_phone",
+    "confidence": 0.24667569994926453
+  },
+  {
+    "text": "what are the symptoms of cancer",
+    "gold": "oos",
+    "pred": "nutrition_info",
+    "confidence": 0.28339484333992004
+  },
+  {
+    "text": "are there any school closures today",
+    "gold": "oos",
+    "pred": "meeting_schedule",
+    "confidence": 0.40554171800613403
+  },
+  {
+    "text": "how long is the school year",
+    "gold": "oos",
+    "pred": "how_old_are_you",
+    "confidence": 0.42302876710891724
+  },
+  {
+    "text": "what other countries speak the english language",
+    "gold": "oos",
+    "pred": "change_language",
+    "confidence": 0.919761061668396
+  },
+  {
+    "text": "why doesn't english have consistent forms",
+    "gold": "oos",
+    "pred": "change_language",
+    "confidence": 0.8761588931083679
+  },
+  {
+    "text": "do they speak english in australia",
+    "gold": "oos",
+    "pred": "change_language",
+    "confidence": 0.9214510321617126
+  },
+  {
+    "text": "how many years do you need to be in the army to get a college tuition",
+    "gold": "oos",
+    "pred": "how_old_are_you",
+    "confidence": 0.5194240212440491
+  },
+  {
+    "text": "what movies are playing",
+    "gold": "oos",
+    "pred": "what_song",
+    "confidence": 0.7699712514877319
+  },
+  {
+    "text": "has there been any times when lebron james was arrested",
+    "gold": "oos",
+    "pred": "report_fraud",
+    "confidence": 0.26480650901794434
+  },
+  {
+    "text": "tell me a list of my local papers",
+    "gold": "oos",
+    "pred": "todo_list",
+    "confidence": 0.6148452758789062
+  },
+  {
+    "text": "tell me about the oscars",
+    "gold": "oos",
+    "pred": "fun_fact",
+    "confidence": 0.3754185438156128
+  },
+  {
+    "text": "why did we elect this woman who made amazon leave and take its jobs with it",
+    "gold": "oos",
+    "pred": "who_made_you",
+    "confidence": 0.5259589552879333
+  },
+  {
+    "text": "is the stop sign around the corner still knocked over",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.5828819274902344
+  },
+  {
+    "text": "is there a fork in the road sign at main & 1st avenue",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.5643854141235352
+  },
+  {
+    "text": "are there cameras hidden in stop lights",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.9070951342582703
+  },
+  {
+    "text": "what does a flashing yellow light mean",
+    "gold": "oos",
+    "pred": "definition",
+    "confidence": 0.2651239037513733
+  },
+  {
+    "text": "will the anti-vaxxers die off if no one gives them vaccines",
+    "gold": "oos",
+    "pred": "vaccines",
+    "confidence": 0.8625853657722473
+  },
+  {
+    "text": "how safe is the herpes vaccine they give women",
+    "gold": "oos",
+    "pred": "vaccines",
+    "confidence": 0.3844047486782074
+  },
+  {
+    "text": "tell me something about linkin park",
+    "gold": "oos",
+    "pred": "fun_fact",
+    "confidence": 0.6848002076148987
+  },
+  {
+    "text": "when do the kids get out of school today",
+    "gold": "oos",
+    "pred": "next_holiday",
+    "confidence": 0.2589651644229889
+  },
+  {
+    "text": "how much sugar was in my urine this morning",
+    "gold": "oos",
+    "pred": "nutrition_info",
+    "confidence": 0.5837161540985107
+  },
+  {
+    "text": "i have a super runny nose and want to find a doctor",
+    "gold": "oos",
+    "pred": "are_you_a_bot",
+    "confidence": 0.3207477331161499
+  },
+  {
+    "text": "how do i get rid of blocked nose at home",
+    "gold": "oos",
+    "pred": "cancel",
+    "confidence": 0.47615134716033936
+  },
+  {
+    "text": "i'd like to find some curtains that look good in this room",
+    "gold": "oos",
+    "pred": "restaurant_suggestion",
+    "confidence": 0.3065892159938812
+  },
+  {
+    "text": "can you tell me the purpose of a safe deposit box",
+    "gold": "oos",
+    "pred": "direct_deposit",
+    "confidence": 0.8264546990394592
+  },
+  {
+    "text": "can you store a gun in a safe deposit box",
+    "gold": "oos",
+    "pred": "direct_deposit",
+    "confidence": 0.9301485419273376
+  },
+  {
+    "text": "how do you get a safe deposit box",
+    "gold": "oos",
+    "pred": "direct_deposit",
+    "confidence": 0.9390672445297241
+  },
+  {
+    "text": "look up how to apply cream to smooth itchiness",
+    "gold": "oos",
+    "pred": "ingredient_substitution",
+    "confidence": 0.9351809620857239
+  },
+  {
+    "text": "how long does it take to call an ambulance",
+    "gold": "oos",
+    "pred": "distance",
+    "confidence": 0.6094492077827454
+  },
+  {
+    "text": "how to get the right medicine",
+    "gold": "oos",
+    "pred": "greeting",
+    "confidence": 0.46204549074172974
+  },
+  {
+    "text": "how to take care of the sick",
+    "gold": "oos",
+    "pred": "greeting",
+    "confidence": 0.577860951423645
+  },
+  {
+    "text": "do vegans really want to blame cows for climate change",
+    "gold": "oos",
+    "pred": "weather",
+    "confidence": 0.30763301253318787
+  },
+  {
+    "text": "give me the weather forecast for today",
+    "gold": "oos",
+    "pred": "weather",
+    "confidence": 0.9355581998825073
+  },
+  {
+    "text": "add color to the black and white photos",
+    "gold": "oos",
+    "pred": "ingredient_substitution",
+    "confidence": 0.39687275886535645
+  },
+  {
+    "text": "time my next run at the boston marathon",
+    "gold": "oos",
+    "pred": "distance",
+    "confidence": 0.5064564347267151
+  },
+  {
+    "text": "when will the next boston marathon be",
+    "gold": "oos",
+    "pred": "next_holiday",
+    "confidence": 0.27777111530303955
+  },
+  {
+    "text": "look up which animal is represented in this year's chinese new year",
+    "gold": "oos",
+    "pred": "do_you_have_pets",
+    "confidence": 0.8505577445030212
+  },
+  {
+    "text": "what is the animal for this chinese new year",
+    "gold": "oos",
+    "pred": "do_you_have_pets",
+    "confidence": 0.8845354914665222
+  },
+  {
+    "text": "how do i write c++",
+    "gold": "oos",
+    "pred": "spelling",
+    "confidence": 0.3324609100818634
+  },
+  {
+    "text": "where is the best place to mine for gold",
+    "gold": "oos",
+    "pred": "travel_suggestion",
+    "confidence": 0.5206969976425171
+  },
+  {
+    "text": "make a list of facts about green book",
+    "gold": "oos",
+    "pred": "fun_fact",
+    "confidence": 0.7970482110977173
+  },
+  {
+    "text": "did a man really die trying to be loved by a horse",
+    "gold": "oos",
+    "pred": "are_you_a_bot",
+    "confidence": 0.25223374366760254
+  },
+  {
+    "text": "does eating poop really help your gut fauna",
+    "gold": "oos",
+    "pred": "nutrition_info",
+    "confidence": 0.6166948080062866
+  },
+  {
+    "text": "is there a vaccine for ebola",
+    "gold": "oos",
+    "pred": "vaccines",
+    "confidence": 0.4340229332447052
+  },
+  {
+    "text": "make a list of stocks that would be good to invest in to start making money",
+    "gold": "oos",
+    "pred": "transfer",
+    "confidence": 0.48442134261131287
+  },
+  {
+    "text": "how can i add my signature to the proposed bill legalizing prostitution",
+    "gold": "oos",
+    "pred": "pay_bill",
+    "confidence": 0.4581114947795868
+  },
+  {
+    "text": "do women still bare their chests for beads at mardi gras",
+    "gold": "oos",
+    "pred": "cook_time",
+    "confidence": 0.3404836654663086
+  },
+  {
+    "text": "when's the next mardi gras going to be",
+    "gold": "oos",
+    "pred": "next_holiday",
+    "confidence": 0.5518479347229004
+  },
+  {
+    "text": "start a speech on microbes for me",
+    "gold": "oos",
+    "pred": "change_speed",
+    "confidence": 0.5604950785636902
+  },
+  {
+    "text": "inform me of what microbes are",
+    "gold": "oos",
+    "pred": "definition",
+    "confidence": 0.329659104347229
+  },
+  {
+    "text": "what is the time signature for the castlevania song bloody tears",
+    "gold": "oos",
+    "pred": "what_song",
+    "confidence": 0.7969638705253601
+  },
+  {
+    "text": "does the nsa listen to me",
+    "gold": "oos",
+    "pred": "what_song",
+    "confidence": 0.5011857151985168
+  },
+  {
+    "text": "can you see if the octopus eggs have hatched yet",
+    "gold": "oos",
+    "pred": "food_last",
+    "confidence": 0.31567153334617615
+  },
+  {
+    "text": "what do you do if your cat eats an octopus",
+    "gold": "oos",
+    "pred": "do_you_have_pets",
+    "confidence": 0.8964686989784241
+  },
+  {
+    "text": "find the names of all the rain forests located in south america",
+    "gold": "oos",
+    "pred": "weather",
+    "confidence": 0.9000398516654968
+  },
+  {
+    "text": "does cutting down the rain forest really add to global warming",
+    "gold": "oos",
+    "pred": "weather",
+    "confidence": 0.657041072845459
+  },
+  {
+    "text": "what's the current demand for wood from rain forests",
+    "gold": "oos",
+    "pred": "weather",
+    "confidence": 0.8190916180610657
+  },
+  {
+    "text": "what's the current prevailing interest rate for mortgages in my area",
+    "gold": "oos",
+    "pred": "interest_rate",
+    "confidence": 0.9520098567008972
+  },
+  {
+    "text": "finish the final touches on my newest robotic creation",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.2802865207195282
+  },
+  {
+    "text": "how long would it take you to die of thirst in the sahara desert",
+    "gold": "oos",
+    "pred": "cook_time",
+    "confidence": 0.6276872158050537
+  },
+  {
+    "text": "can a samurai sword deflect a bullet",
+    "gold": "oos",
+    "pred": "spelling",
+    "confidence": 0.31602099537849426
+  },
+  {
+    "text": "how much for a samurai sword",
+    "gold": "oos",
+    "pred": "spelling",
+    "confidence": 0.45807817578315735
+  },
+  {
+    "text": "see if you can purchase a spacesuit online",
+    "gold": "oos",
+    "pred": "order",
+    "confidence": 0.9032995700836182
+  },
+  {
+    "text": "compile a folder of paintings of sparta",
+    "gold": "oos",
+    "pred": "todo_list_update",
+    "confidence": 0.24304185807704926
+  },
+  {
+    "text": "how do i get venture capital for my app",
+    "gold": "oos",
+    "pred": "application_status",
+    "confidence": 0.6844695806503296
+  },
+  {
+    "text": "what's the latest vc funded company",
+    "gold": "oos",
+    "pred": "who_made_you",
+    "confidence": 0.2832019329071045
+  },
+  {
+    "text": "what's my boss' home address",
+    "gold": "oos",
+    "pred": "who_do_you_work_for",
+    "confidence": 0.8704657554626465
+  },
+  {
+    "text": "what's it like to have parents who actually love you",
+    "gold": "oos",
+    "pred": "are_you_a_bot",
+    "confidence": 0.4897302985191345
+  },
+  {
+    "text": "is there any news if my parents survived the crash",
+    "gold": "oos",
+    "pred": "last_maintenance",
+    "confidence": 0.3439566195011139
+  },
+  {
+    "text": "tell me where i can get more information on getting a job at the post office",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.7475598454475403
+  },
+  {
+    "text": "show me all biographies on teddy kennedy",
+    "gold": "oos",
+    "pred": "fun_fact",
+    "confidence": 0.34244027733802795
+  },
+  {
+    "text": "see if there is a recipe to make a casserole without any dairy",
+    "gold": "oos",
+    "pred": "recipe",
+    "confidence": 0.7907799482345581
+  },
+  {
+    "text": "tell me in how many different colors i can get dinner plates from pier one imports",
+    "gold": "oos",
+    "pred": "meal_suggestion",
+    "confidence": 0.40410569310188293
+  },
+  {
+    "text": "tell me amazon's choice for a set of 4 dinner plates",
+    "gold": "oos",
+    "pred": "meal_suggestion",
+    "confidence": 0.4927184283733368
+  },
+  {
+    "text": "find out where i can by melamine dinner plates",
+    "gold": "oos",
+    "pred": "restaurant_suggestion",
+    "confidence": 0.7478452920913696
+  },
+  {
+    "text": "how many dvds do i currently have on file",
+    "gold": "oos",
+    "pred": "todo_list",
+    "confidence": 0.4846809506416321
+  },
+  {
+    "text": "look up the conversion rate for the euro to dollar exchange",
+    "gold": "oos",
+    "pred": "exchange_rate",
+    "confidence": 0.9497241973876953
+  },
+  {
+    "text": "i need you to order a new pair of eyeglasses for me",
+    "gold": "oos",
+    "pred": "order",
+    "confidence": 0.9272215962409973
+  },
+  {
+    "text": "tell me what my current eyeglasses prescription is",
+    "gold": "oos",
+    "pred": "nutrition_info",
+    "confidence": 0.26752832531929016
+  },
+  {
+    "text": "show me examples of cute eyeglass frames",
+    "gold": "oos",
+    "pred": "fun_fact",
+    "confidence": 0.3330465257167816
+  },
+  {
+    "text": "make a list of all sites in the us where spirits have been seen at night",
+    "gold": "oos",
+    "pred": "travel_suggestion",
+    "confidence": 0.5344151258468628
+  },
+  {
+    "text": "tell me a scary story",
+    "gold": "oos",
+    "pred": "tell_joke",
+    "confidence": 0.5452480316162109
+  },
+  {
+    "text": "make a list of goals i need to meet in order to write a book",
+    "gold": "oos",
+    "pred": "schedule_meeting",
+    "confidence": 0.24896275997161865
+  },
+  {
+    "text": "give me a list of tax attorneys that practice in my city",
+    "gold": "oos",
+    "pred": "w2",
+    "confidence": 0.4318513572216034
+  },
+  {
+    "text": "give me the number of a traffic attorney near here",
+    "gold": "oos",
+    "pred": "traffic",
+    "confidence": 0.9609531760215759
+  },
+  {
+    "text": "find out how many miles the mississippi waterway runs",
+    "gold": "oos",
+    "pred": "distance",
+    "confidence": 0.7745999693870544
+  },
+  {
+    "text": "get me a list of universities that provide full scholarships in arizona",
+    "gold": "oos",
+    "pred": "travel_suggestion",
+    "confidence": 0.3436763286590576
+  },
+  {
+    "text": "do a job search on monstercom for jobs in the tech field in arlington, va",
+    "gold": "oos",
+    "pred": "book_hotel",
+    "confidence": 0.4349237382411957
+  },
+  {
+    "text": "i need to find work, help me connect to a local business through linkedin",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.5433507561683655
+  },
+  {
+    "text": "give me a list of the top 5 issues people have in this country",
+    "gold": "oos",
+    "pred": "travel_suggestion",
+    "confidence": 0.49081870913505554
+  },
+  {
+    "text": "tell me how to make a lesson plan",
+    "gold": "oos",
+    "pred": "what_can_i_ask_you",
+    "confidence": 0.3709124028682709
+  },
+  {
+    "text": "tell me where i can get the cheapest tennis balls on the internet",
+    "gold": "oos",
+    "pred": "restaurant_suggestion",
+    "confidence": 0.3634844124317169
+  },
+  {
+    "text": "play the current tennis match on the tv in the living room",
+    "gold": "oos",
+    "pred": "play_music",
+    "confidence": 0.666022777557373
+  },
+  {
+    "text": "find the best prices for toothpaste at any store within a 5 mile radius of my location",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.2739020586013794
+  },
+  {
+    "text": "what kind of foods are border collies allergic to",
+    "gold": "oos",
+    "pred": "ingredients_list",
+    "confidence": 0.6950117945671082
+  },
+  {
+    "text": "tell me the price of bananas at whole foods this week",
+    "gold": "oos",
+    "pred": "nutrition_info",
+    "confidence": 0.33667728304862976
+  },
+  {
+    "text": "call the grocery store and get their operational hours",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.27772191166877747
+  },
+  {
+    "text": "call an uber to take me to the closest grocery store",
+    "gold": "oos",
+    "pred": "uber",
+    "confidence": 0.9324017763137817
+  },
+  {
+    "text": "which houses do not have automatic spot lights in front of their garage",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.9304780960083008
+  },
+  {
+    "text": "are all the street lamps working on my street",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.8926882147789001
+  },
+  {
+    "text": "make a list of all community gardens near me",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.5554617047309875
+  },
+  {
+    "text": "tell me where to send my resume in order to get a job at delta airlines",
+    "gold": "oos",
+    "pred": "order",
+    "confidence": 0.3463767170906067
+  },
+  {
+    "text": "review my resume for spelling errors",
+    "gold": "oos",
+    "pred": "spelling",
+    "confidence": 0.8912061452865601
+  },
+  {
+    "text": "please print out copies of my resume",
+    "gold": "oos",
+    "pred": "change_volume",
+    "confidence": 0.3132747709751129
+  },
+  {
+    "text": "please spell check my resume",
+    "gold": "oos",
+    "pred": "spelling",
+    "confidence": 0.9358805418014526
+  },
+  {
+    "text": "search up someone who plays in a movie",
+    "gold": "oos",
+    "pred": "who_made_you",
+    "confidence": 0.33141010999679565
+  },
+  {
+    "text": "search up the cast in the walking dead",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.38607773184776306
+  },
+  {
+    "text": "what's the amusement park like",
+    "gold": "oos",
+    "pred": "travel_suggestion",
+    "confidence": 0.24843040108680725
+  },
+  {
+    "text": "take a ride on the ferris wheel",
+    "gold": "oos",
+    "pred": "distance",
+    "confidence": 0.3245740234851837
+  },
+  {
+    "text": "go on the ferris wheel",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.5524361729621887
+  },
+  {
+    "text": "what is the cost of four double a batteries",
+    "gold": "oos",
+    "pred": "gas",
+    "confidence": 0.2609449326992035
+  },
+  {
+    "text": "compare prices of malt-o-meal to kelloggs",
+    "gold": "oos",
+    "pred": "ingredient_substitution",
+    "confidence": 0.42710962891578674
+  },
+  {
+    "text": "what kinds of cereal are gluten free",
+    "gold": "oos",
+    "pred": "ingredients_list",
+    "confidence": 0.5567508339881897
+  },
+  {
+    "text": "what kinds of cereal are low sugar",
+    "gold": "oos",
+    "pred": "ingredients_list",
+    "confidence": 0.5012243986129761
+  },
+  {
+    "text": "what is the last time the living room was vacuumed",
+    "gold": "oos",
+    "pred": "last_maintenance",
+    "confidence": 0.4712469279766083
+  },
+  {
+    "text": "what time did i get the last text message i received",
+    "gold": "oos",
+    "pred": "text",
+    "confidence": 0.9361997246742249
+  },
+  {
+    "text": "please read me the last text message i received",
+    "gold": "oos",
+    "pred": "text",
+    "confidence": 0.9442250728607178
+  },
+  {
+    "text": "read my friend's text message",
+    "gold": "oos",
+    "pred": "text",
+    "confidence": 0.9479499459266663
+  },
+  {
+    "text": "update my status on instagram",
+    "gold": "oos",
+    "pred": "sync_device",
+    "confidence": 0.45705947279930115
+  },
+  {
+    "text": "can you check on what it would cost me to upgrade my iphone with t-mobile",
+    "gold": "oos",
+    "pred": "sync_device",
+    "confidence": 0.25813737511634827
+  },
+  {
+    "text": "please alert me when my iphone battery falls below 30%",
+    "gold": "oos",
+    "pred": "jump_start",
+    "confidence": 0.9242486953735352
+  },
+  {
+    "text": "generate a list of 20 songs that include the word love in the title",
+    "gold": "oos",
+    "pred": "play_music",
+    "confidence": 0.5060152411460876
+  },
+  {
+    "text": "create a 500 word letter expressing love",
+    "gold": "oos",
+    "pred": "spelling",
+    "confidence": 0.6843379735946655
+  },
+  {
+    "text": "find a couple's therapist who can help me and my wife",
+    "gold": "oos",
+    "pred": "who_do_you_work_for",
+    "confidence": 0.272394061088562
+  },
+  {
+    "text": "what does the average cost of an engagement ring",
+    "gold": "oos",
+    "pred": "income",
+    "confidence": 0.2611399292945862
+  },
+  {
+    "text": "accept incoming phone call",
+    "gold": "oos",
+    "pred": "make_call",
+    "confidence": 0.9219834208488464
+  },
+  {
+    "text": "deny incoming phone call",
+    "gold": "oos",
+    "pred": "make_call",
+    "confidence": 0.9142711758613586
+  },
+  {
+    "text": "what do i put on my feet",
+    "gold": "oos",
+    "pred": "measurement_conversion",
+    "confidence": 0.2716095447540283
+  },
+  {
+    "text": "what are the words to the chorus for this song",
+    "gold": "oos",
+    "pred": "what_song",
+    "confidence": 0.935786783695221
+  },
+  {
+    "text": "display the song lyrics for me",
+    "gold": "oos",
+    "pred": "what_song",
+    "confidence": 0.9282050728797913
+  },
+  {
+    "text": "plant all your flowers just after easter in early april",
+    "gold": "oos",
+    "pred": "calendar_update",
+    "confidence": 0.27750155329704285
+  },
+  {
+    "text": "find a good toy to give a 5 year old boy that costs less than $40",
+    "gold": "oos",
+    "pred": "how_old_are_you",
+    "confidence": 0.3706490695476532
+  },
+  {
+    "text": "find out where i can buy a barbie doll for my niece",
+    "gold": "oos",
+    "pred": "order",
+    "confidence": 0.5466929078102112
+  },
+  {
+    "text": "what brand was the last advertisement for",
+    "gold": "oos",
+    "pred": "who_made_you",
+    "confidence": 0.5306453704833984
+  },
+  {
+    "text": "how many people have held the role of county attorney bearing the family name \"dixon\"",
+    "gold": "oos",
+    "pred": "change_user_name",
+    "confidence": 0.338650643825531
+  },
+  {
+    "text": "look up the email address of the local police",
+    "gold": "oos",
+    "pred": "share_location",
+    "confidence": 0.26768606901168823
+  },
+  {
+    "text": "organize photos by year they were taken",
+    "gold": "oos",
+    "pred": "pto_used",
+    "confidence": 0.542743444442749
+  },
+  {
+    "text": "can you group my photos by location",
+    "gold": "oos",
+    "pred": "share_location",
+    "confidence": 0.8683592081069946
+  },
+  {
+    "text": "look up the operating hours of my local park on weekends",
+    "gold": "oos",
+    "pred": "pto_balance",
+    "confidence": 0.26060959696769714
+  },
+  {
+    "text": "how many parks are within 20 miles of me",
+    "gold": "oos",
+    "pred": "measurement_conversion",
+    "confidence": 0.3590938150882721
+  },
+  {
+    "text": "check to see if i still have allergy medication",
+    "gold": "oos",
+    "pred": "nutrition_info",
+    "confidence": 0.28719207644462585
+  },
+  {
+    "text": "sign me up for the writing class you told me about 2 days ago",
+    "gold": "oos",
+    "pred": "how_old_are_you",
+    "confidence": 0.28066858649253845
+  },
+  {
+    "text": "what should you do if your laundry machine is making a high pitched whine",
+    "gold": "oos",
+    "pred": "w2",
+    "confidence": 0.24193398654460907
+  },
+  {
+    "text": "find out who the best appliance repairman is for the downtown area",
+    "gold": "oos",
+    "pred": "warranty_repair",
+    "confidence": 0.8232045769691467
+  },
+  {
+    "text": "look up local repair shops that work on vacuum cleaners",
+    "gold": "oos",
+    "pred": "schedule_maintenance",
+    "confidence": 0.2557736039161682
+  },
+  {
+    "text": "can i get a sear's appliance repairman",
+    "gold": "oos",
+    "pred": "warranty_repair",
+    "confidence": 0.7790106534957886
+  },
+  {
+    "text": "find directions to the sunshine car wash from my house",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.2767985165119171
+  },
+  {
+    "text": "can you book me an appointment at a car wash",
+    "gold": "oos",
+    "pred": "schedule_maintenance",
+    "confidence": 0.7986240983009338
+  },
+  {
+    "text": "what brush can i use to wash my car that won't scratch it",
+    "gold": "oos",
+    "pred": "washer_issue",
+    "confidence": 0.3827461004257202
+  },
+  {
+    "text": "please clean the car windows",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.8852033019065857
+  },
+  {
+    "text": "vacuum out the car",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.8700488209724426
+  },
+  {
+    "text": "schedule an appointment with the credit counselor for tuesday",
+    "gold": "oos",
+    "pred": "calendar_update",
+    "confidence": 0.7120345830917358
+  },
+  {
+    "text": "find a credit mentoring service number for me please",
+    "gold": "oos",
+    "pred": "insurance",
+    "confidence": 0.32122334837913513
+  },
+  {
+    "text": "how much does it cost to get two jackets dry cleaned",
+    "gold": "oos",
+    "pred": "gas",
+    "confidence": 0.2564307749271393
+  },
+  {
+    "text": "what is the most famous quote on the internet",
+    "gold": "oos",
+    "pred": "what_song",
+    "confidence": 0.5830945372581482
+  },
+  {
+    "text": "make a list of the top 100 famous quotes",
+    "gold": "oos",
+    "pred": "calculator",
+    "confidence": 0.47111859917640686
+  },
+  {
+    "text": "what do you do if you can't stop vomiting",
+    "gold": "oos",
+    "pred": "spelling",
+    "confidence": 0.3318217694759369
+  },
+  {
+    "text": "what should i take for a cold",
+    "gold": "oos",
+    "pred": "weather",
+    "confidence": 0.9032049179077148
+  },
+  {
+    "text": "i have too many credit cards, is there any way you can help me organize them",
+    "gold": "oos",
+    "pred": "redeem_rewards",
+    "confidence": 0.25370869040489197
+  },
+  {
+    "text": "find a credit counseling service for me on the web",
+    "gold": "oos",
+    "pred": "insurance_change",
+    "confidence": 0.3724510073661804
+  },
+  {
+    "text": "look up the current auto loan rate at chase bank",
+    "gold": "oos",
+    "pred": "min_payment",
+    "confidence": 0.3555271327495575
+  },
+  {
+    "text": "check current prime mortgage rate",
+    "gold": "oos",
+    "pred": "bill_balance",
+    "confidence": 0.38887014985084534
+  },
+  {
+    "text": "check to see if i need a pass to use the parking garages downtown",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.27958542108535767
+  },
+  {
+    "text": "how much does it cost to use the parking garage downtown",
+    "gold": "oos",
+    "pred": "mpg",
+    "confidence": 0.5972956418991089
+  },
+  {
+    "text": "what's a good way of backing out of a parking spot",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.621937096118927
+  },
+  {
+    "text": "search the web for monthly parking near my house",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.520200788974762
+  },
+  {
+    "text": "find out where parking is close to the stadium",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.7118576169013977
+  },
+  {
+    "text": "how do i get perfect alignment with the curb",
+    "gold": "oos",
+    "pred": "directions",
+    "confidence": 0.5932049751281738
+  },
+  {
+    "text": "describe to me how i can learn to make small talk",
+    "gold": "oos",
+    "pred": "change_speed",
+    "confidence": 0.3529728949069977
+  },
+  {
+    "text": "what do you do all day while i'm at work",
+    "gold": "oos",
+    "pred": "what_are_your_hobbies",
+    "confidence": 0.36376267671585083
+  },
+  {
+    "text": "tell me the best way to freshen the smell in my car",
+    "gold": "oos",
+    "pred": "gas_type",
+    "confidence": 0.3239304721355438
+  },
+  {
+    "text": "how much is auto febreeze on amazon",
+    "gold": "oos",
+    "pred": "bill_balance",
+    "confidence": 0.299975723028183
+  },
+  {
+    "text": "find out how to deodorize a car",
+    "gold": "oos",
+    "pred": "ingredients_list",
+    "confidence": 0.27761682868003845
+  },
+  {
+    "text": "see if you can find a good vegetable wash for me",
+    "gold": "oos",
+    "pred": "ingredients_list",
+    "confidence": 0.46209412813186646
+  },
+  {
+    "text": "i'd like to hire someone to wash my car",
+    "gold": "oos",
+    "pred": "schedule_maintenance",
+    "confidence": 0.6017212271690369
+  },
+  {
+    "text": "find me articles on appropriate wedding attire",
+    "gold": "oos",
+    "pred": "meal_suggestion",
+    "confidence": 0.6539866328239441
+  },
+  {
+    "text": "order me a book of stamps and envelopes",
+    "gold": "oos",
+    "pred": "order",
+    "confidence": 0.7670016884803772
+  },
+  {
+    "text": "start listening to me dictate a letter",
+    "gold": "oos",
+    "pred": "spelling",
+    "confidence": 0.48246049880981445
+  },
+  {
+    "text": "email my boss, tell him i wont be in today",
+    "gold": "oos",
+    "pred": "who_do_you_work_for",
+    "confidence": 0.503978431224823
+  },
+  {
+    "text": "are the schools closed",
+    "gold": "oos",
+    "pred": "traffic",
+    "confidence": 0.2698870599269867
+  },
+  {
+    "text": "what shows are on tonight",
+    "gold": "oos",
+    "pred": "date",
+    "confidence": 0.46140414476394653
+  },
+  {
+    "text": "can you tell me what the best places are to look for a job online",
+    "gold": "oos",
+    "pred": "travel_suggestion",
+    "confidence": 0.5730444192886353
+  },
+  {
+    "text": "please replay the last five minutes",
+    "gold": "oos",
+    "pred": "timer",
+    "confidence": 0.9012738466262817
+  },
+  {
+    "text": "consult the gq website to find what men wear to weddings",
+    "gold": "oos",
+    "pred": "restaurant_suggestion",
+    "confidence": 0.3399914503097534
+  },
+  {
+    "text": "order me a blue pin stripe suit from saville row",
+    "gold": "oos",
+    "pred": "pin_change",
+    "confidence": 0.9452608823776245
+  },
+  {
+    "text": "how many calories does jumping up and down burn",
+    "gold": "oos",
+    "pred": "calories",
+    "confidence": 0.9672900438308716
+  },
+  {
+    "text": "find out how long a cold should last before i call a doctor",
+    "gold": "oos",
+    "pred": "make_call",
+    "confidence": 0.5553211569786072
+  },
+  {
+    "text": "what should i take for nausea",
+    "gold": "oos",
+    "pred": "tire_pressure",
+    "confidence": 0.48645922541618347
+  },
+  {
+    "text": "can you order some ointment for me",
+    "gold": "oos",
+    "pred": "order",
+    "confidence": 0.926178514957428
+  },
+  {
+    "text": "forward the text i just got from henry to giselle",
+    "gold": "oos",
+    "pred": "text",
+    "confidence": 0.9524469375610352
+  },
+  {
+    "text": "please read the text message i just received",
+    "gold": "oos",
+    "pred": "text",
+    "confidence": 0.948863685131073
+  },
+  {
+    "text": "save my text on my laptop hard drive",
+    "gold": "oos",
+    "pred": "text",
+    "confidence": 0.9446858167648315
+  },
+  {
+    "text": "how much does gun ammunition cost",
+    "gold": "oos",
+    "pred": "gas",
+    "confidence": 0.42850711941719055
+  },
+  {
+    "text": "get me a list of the best savings account rates right now",
+    "gold": "oos",
+    "pred": "balance",
+    "confidence": 0.6127128005027771
+  },
+  {
+    "text": "look up articles on squealing brakes for ford f-150's",
+    "gold": "oos",
+    "pred": "tire_change",
+    "confidence": 0.3652823269367218
+  },
+  {
+    "text": "please answer the phone and put it on speaker on the tv",
+    "gold": "oos",
+    "pred": "sync_device",
+    "confidence": 0.29958319664001465
+  },
+  {
+    "text": "can you tell me who's calling me",
+    "gold": "oos",
+    "pred": "user_name",
+    "confidence": 0.8493323922157288
+  },
+  {
+    "text": "answer the phone",
+    "gold": "oos",
+    "pred": "find_phone",
+    "confidence": 0.7483236789703369
+  },
+  {
+    "text": "ignore call",
+    "gold": "oos",
+    "pred": "make_call",
+    "confidence": 0.8617905378341675
+  },
+  {
+    "text": "what supplies do i need to clean my car",
+    "gold": "oos",
+    "pred": "gas_type",
+    "confidence": 0.8085641264915466
+  },
+  {
+    "text": "look up articles on car washing at home",
+    "gold": "oos",
+    "pred": "washer_issue",
+    "confidence": 0.5836129784584045
+  },
+  {
+    "text": "how old is the oldest person that is in the guiness book of world records",
+    "gold": "oos",
+    "pred": "how_old_are_you",
+    "confidence": 0.6059431433677673
+  },
+  {
+    "text": "can you look at what average reviews say about the new windows phone on amazon for me",
+    "gold": "oos",
+    "pred": "restaurant_reviews",
+    "confidence": 0.9544124603271484
+  },
+  {
+    "text": "tell me a summary of reviews that oakley frogskins get on amazon",
+    "gold": "oos",
+    "pred": "restaurant_reviews",
+    "confidence": 0.931764543056488
+  },
+  {
+    "text": "make me a list of the top ten reviewed hiking boots on jetcom",
+    "gold": "oos",
+    "pred": "shopping_list_update",
+    "confidence": 0.24709594249725342
+  },
+  {
+    "text": "show me a tabulation of reviews for lcd tv's on amazon",
+    "gold": "oos",
+    "pred": "restaurant_reviews",
+    "confidence": 0.9571089148521423
+  },
+  {
+    "text": "what does it mean to join the occult",
+    "gold": "oos",
+    "pred": "definition",
+    "confidence": 0.8392111659049988
+  },
+  {
+    "text": "did madison really bathe in the potomac naked",
+    "gold": "oos",
+    "pred": "travel_suggestion",
+    "confidence": 0.584477424621582
+  },
+  {
+    "text": "can you explain a good risk strategy to me",
+    "gold": "oos",
+    "pred": "insurance",
+    "confidence": 0.27621275186538696
+  },
+  {
+    "text": "fill out the paperwork for tonys new daycare center",
+    "gold": "oos",
+    "pred": "insurance_change",
+    "confidence": 0.45063644647598267
+  },
+  {
+    "text": "where can i find the best divorce lawyer",
+    "gold": "oos",
+    "pred": "share_location",
+    "confidence": 0.4231586754322052
+  },
+  {
+    "text": "what is appropriate to spend on a bouquet of flowers for mother's day",
+    "gold": "oos",
+    "pred": "spending_history",
+    "confidence": 0.5231807827949524
+  },
+  {
+    "text": "is the polar vortex of 2019 apart of global warming",
+    "gold": "oos",
+    "pred": "washer_issue",
+    "confidence": 0.543770432472229
+  },
+  {
+    "text": "what is global warming",
+    "gold": "oos",
+    "pred": "washer_issue",
+    "confidence": 0.7743527293205261
+  },
+  {
+    "text": "can you book me a tee time at cantigny at 2 pm on saturday",
+    "gold": "oos",
+    "pred": "restaurant_reservation",
+    "confidence": 0.8219117522239685
+  },
+  {
+    "text": "what's the best golf club to use on the lower nine",
+    "gold": "oos",
+    "pred": "travel_suggestion",
+    "confidence": 0.33217087388038635
+  },
+  {
+    "text": "review chapter 6 with my son and verify his math homework answers",
+    "gold": "oos",
+    "pred": "calculator",
+    "confidence": 0.74465411901474
+  },
+  {
+    "text": "how do i turn up the resolution that i am taking pictures in on my camera phone",
+    "gold": "oos",
+    "pred": "sync_device",
+    "confidence": 0.2941173017024994
+  },
+  {
+    "text": "can you find me sheet music for the beatles white album online",
+    "gold": "oos",
+    "pred": "play_music",
+    "confidence": 0.8838719129562378
+  },
+  {
+    "text": "what is the life expectancy of a polar bear",
+    "gold": "oos",
+    "pred": "meaning_of_life",
+    "confidence": 0.8179189562797546
+  },
+  {
+    "text": "order the new book titled \"ghost work\"",
+    "gold": "oos",
+    "pred": "order",
+    "confidence": 0.6782692670822144
+  },
+  {
+    "text": "please check if god is really living in a small apartment in brussels",
+    "gold": "oos",
+    "pred": "book_hotel",
+    "confidence": 0.3288237452507019
+  },
+  {
+    "text": "where can i find cheap rental skis nearby",
+    "gold": "oos",
+    "pred": "car_rental",
+    "confidence": 0.9384152889251709
+  },
+  {
+    "text": "check the nanny cam and send the feed to my phone",
+    "gold": "oos",
+    "pred": "make_call",
+    "confidence": 0.5250135660171509
+  },
+  {
+    "text": "how much should i tip on this bill",
+    "gold": "oos",
+    "pred": "bill_balance",
+    "confidence": 0.8508388996124268
+  },
+  {
+    "text": "what's my budget for today's shopping trip",
+    "gold": "oos",
+    "pred": "shopping_list",
+    "confidence": 0.5424062609672546
+  },
+  {
+    "text": "can you find my car in the parking lot",
+    "gold": "oos",
+    "pred": "mpg",
+    "confidence": 0.2961353361606598
+  },
+  {
+    "text": "is gambling legal in my state",
+    "gold": "oos",
+    "pred": "report_fraud",
+    "confidence": 0.278937965631485
+  },
+  {
+    "text": "what time did i put in my first load of laundry",
+    "gold": "oos",
+    "pred": "last_maintenance",
+    "confidence": 0.338981032371521
+  },
+  {
+    "text": "report outage to my electric provider",
+    "gold": "oos",
+    "pred": "application_status",
+    "confidence": 0.2818596661090851
+  },
+  {
+    "text": "power up my generator",
+    "gold": "oos",
+    "pred": "smart_home",
+    "confidence": 0.6112200021743774
+  },
+  {
+    "text": "find instructions on how to play taboo",
+    "gold": "oos",
+    "pred": "play_music",
+    "confidence": 0.8993337750434875
+  },
+  {
+    "text": "tell me how much energy i have consumed so far this year",
+    "gold": "oos",
+    "pred": "spending_history",
+    "confidence": 0.6881162524223328
+  },
+  {
+    "text": "how many kilowatts have i used this month",
+    "gold": "oos",
+    "pred": "pto_used",
+    "confidence": 0.7635364532470703
+  },
+  {
+    "text": "what's my current electric bill",
+    "gold": "oos",
+    "pred": "bill_balance",
+    "confidence": 0.9255943894386292
+  },
+  {
+    "text": "where did i last place my remote",
+    "gold": "oos",
+    "pred": "current_location",
+    "confidence": 0.33955949544906616
+  },
+  {
+    "text": "do you know where the remote is",
+    "gold": "oos",
+    "pred": "current_location",
+    "confidence": 0.7042194604873657
+  },
+  {
+    "text": "have you seen the remote",
+    "gold": "oos",
+    "pred": "find_phone",
+    "confidence": 0.3748878836631775
+  },
+  {
+    "text": "give me my wallet location",
+    "gold": "oos",
+    "pred": "current_location",
+    "confidence": 0.4928629994392395
+  },
+  {
+    "text": "find my wallet",
+    "gold": "oos",
+    "pred": "find_phone",
+    "confidence": 0.26517799496650696
+  },
+  {
+    "text": "can you give me the gps location of harvey",
+    "gold": "oos",
+    "pred": "share_location",
+    "confidence": 0.7026211619377136
+  },
+  {
+    "text": "where's my buddy steve right this second",
+    "gold": "oos",
+    "pred": "share_location",
+    "confidence": 0.8490489721298218
+  },
+  {
+    "text": "locate jenny at her present position",
+    "gold": "oos",
+    "pred": "share_location",
+    "confidence": 0.6796237826347351
+  },
+  {
+    "text": "let me know where jim is right now",
+    "gold": "oos",
+    "pred": "share_location",
+    "confidence": 0.8624670505523682
+  },
+  {
+    "text": "i want to cancel my technician visit",
+    "gold": "warranty_repair",
+    "pred": "cancel",
+    "confidence": 0.8965504169464111
+  },
+  {
+    "text": "i want to return the dryer i bought last week",
+    "gold": "warranty_repair",
+    "pred": "oos",
+    "confidence": 0.11537405848503113
+  },
+  {
+    "text": "i need to book a technician to repair my fridge",
+    "gold": "warranty_repair",
+    "pred": "fridge_issue",
+    "confidence": 0.3117706775665283
+  }
+]

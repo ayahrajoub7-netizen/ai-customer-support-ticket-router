@@ -1,0 +1,81 @@
+text,intent
+my dishwasher is not draining the water,dishwasher_issue
+the dishwasher leaves dirty spots on the plates,dishwasher_issue
+dishwasher wont start when i press the button,dishwasher_issue
+there is water left at the bottom of my dishwasher,dishwasher_issue
+my dish washer is making a loud grinding noise,dishwasher_issue
+the dishes come out still wet from the dishwasher,dishwasher_issue
+dishwasher shows error code E24,dishwasher_issue
+why does my dishwasher smell bad,dishwasher_issue
+the dishwasher door will not close properly,dishwasher_issue
+detergent stays in the dispenser after the dishwasher cycle,dishwasher_issue
+my dishwasher is leaking onto the kitchen floor,dishwasher_issue
+the dishwasher stops in the middle of the program,dishwasher_issue
+glasses are cloudy after running the dishwasher,dishwasher_issue
+dishwasher lights are blinking and it does nothing,dishwasher_issue
+the spray arm in my dishwasher does not turn,dishwasher_issue
+dishwasher takes four hours to finish a cycle,dishwasher_issue
+my new dishwasher won't fill with water,dishwasher_issue
+food is still stuck on plates after washing in the dishwasher,dishwasher_issue
+dishwasher is tripping the circuit breaker,dishwasher_issue
+how do i clean the filter of my dishwasher,dishwasher_issue
+my washing machine does not spin,washer_issue
+the washing machine is shaking violently during spin,washer_issue
+washer won't drain and clothes are soaking wet,washer_issue
+the door of my washing machine is locked and won't open,washer_issue
+washing machine shows error F21,washer_issue
+my laundry machine is leaking water from underneath,washer_issue
+the washer does not fill with water,washer_issue
+washing machine makes a banging noise,washer_issue
+clothes smell musty after washing in my machine,washer_issue
+the drum of my washing machine will not turn,washer_issue
+washer stops halfway through the cycle,washer_issue
+my front loader washing machine won't turn on,washer_issue
+the washing machine is not taking the softener,washer_issue
+washing machine timer is stuck,washer_issue
+there is a burning smell from my washing machine,washer_issue
+the washer leaves detergent residue on clothes,washer_issue
+my washing machine is very noisy when spinning,washer_issue
+washing machine water is not heating,washer_issue
+the rubber seal of my washer has mold,washer_issue
+my washer keeps beeping and blinking,washer_issue
+my fridge is not cooling,fridge_issue
+the refrigerator is making a buzzing noise,fridge_issue
+there is ice building up in my freezer,fridge_issue
+water is leaking under the refrigerator,fridge_issue
+the fridge light does not turn on,fridge_issue
+my refrigerator is too cold and freezes the vegetables,fridge_issue
+the ice maker in my fridge stopped working,fridge_issue
+freezer is not freezing food anymore,fridge_issue
+my fridge door does not seal properly,fridge_issue
+the refrigerator compressor keeps clicking,fridge_issue
+fridge temperature display shows an error,fridge_issue
+my refrigerator runs all the time without stopping,fridge_issue
+the water dispenser on my fridge is not working,fridge_issue
+there is condensation inside my refrigerator,fridge_issue
+my fridge smells bad even after cleaning,fridge_issue
+the freezer alarm keeps going off,fridge_issue
+refrigerator stopped working after a power cut,fridge_issue
+my fridge freezer is warm inside,fridge_issue
+the fan inside the refrigerator is loud,fridge_issue
+fridge is leaking water inside on the shelves,fridge_issue
+i want to make a warranty claim for my appliance,warranty_repair
+is my dishwasher still under warranty,warranty_repair
+how long is the warranty on your washing machines,warranty_repair
+i need to book a technician to repair my fridge,warranty_repair
+can someone come to fix my appliance at home,warranty_repair
+how do i register my new appliance for warranty,warranty_repair
+i want a replacement because my new washer arrived broken,warranty_repair
+schedule a repair visit for my oven,warranty_repair
+how much does an out of warranty repair cost,warranty_repair
+can i extend the warranty of my refrigerator,warranty_repair
+the technician did not show up for my repair appointment,warranty_repair
+i want to return the dryer i bought last week,warranty_repair
+where can i find my warranty certificate,warranty_repair
+does the warranty cover spare parts,warranty_repair
+i need a service appointment for my dishwasher,warranty_repair
+my appliance broke after two months can i get it replaced,warranty_repair
+what is the status of my repair request,warranty_repair
+is installation included in the warranty,warranty_repair
+i want to cancel my technician visit,warranty_repair
+please send someone to repair my washing machine,warranty_repair

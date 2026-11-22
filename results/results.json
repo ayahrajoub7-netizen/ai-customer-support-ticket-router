@@ -1,0 +1,78 @@
+{
+  "hardware": "Intel64 Family 6 Model 141 Stepping 1, GenuineIntel, Windows, 1 CPU thread, PyTorch 2.15.0+cpu",
+  "latency_runs": 200,
+  "fast_mode": false,
+  "test_size": 5520,
+  "test_oos": 1000,
+  "train_size": 15292,
+  "val_size": 3112,
+  "training_seconds": {},
+  "rows": [
+    {
+      "model": "tf-idf + LogReg (baseline)",
+      "accuracy": 0.7800724637681159,
+      "in_scope_accuracy": 0.9092920353982301,
+      "oos_recall": 0.196,
+      "team_accuracy": 0.8181159420289855,
+      "threshold": 0.04,
+      "size_mb": 39.71369,
+      "latency_ms": 0.44502400005512754,
+      "latency_p95_ms": 0.4663650012844299
+    },
+    {
+      "model": "word2vec + FFN",
+      "accuracy": 0.7876811594202898,
+      "in_scope_accuracy": 0.8960176991150443,
+      "oos_recall": 0.298,
+      "team_accuracy": 0.8342391304347826,
+      "threshold": 0.38,
+      "size_mb": 9.44888,
+      "latency_ms": 0.12359600006675464,
+      "latency_p95_ms": 0.15113500021470821
+    },
+    {
+      "model": "BERT-base (FP32)",
+      "accuracy": 0.8972826086956521,
+      "in_scope_accuracy": 0.9557522123893806,
+      "oos_recall": 0.633,
+      "team_accuracy": 0.9130434782608695,
+      "threshold": 0.34,
+      "size_mb": 439.14978,
+      "latency_ms": 47.64041800005543,
+      "latency_p95_ms": 58.94935000160331
+    },
+    {
+      "model": "BERT-mini distilled (FP32)",
+      "accuracy": 0.8585144927536232,
+      "in_scope_accuracy": 0.9365044247787611,
+      "oos_recall": 0.506,
+      "team_accuracy": 0.884963768115942,
+      "threshold": 0.25,
+      "size_mb": 45.570418,
+      "latency_ms": 3.0664854999577074,
+      "latency_p95_ms": 3.980944999602797
+    },
+    {
+      "model": "BERT-mini distilled (INT8)",
+      "accuracy": 0.8635869565217391,
+      "in_scope_accuracy": 0.9334070796460177,
+      "oos_recall": 0.548,
+      "team_accuracy": 0.8920289855072464,
+      "threshold": 0.24,
+      "size_mb": 12.27376,
+      "latency_ms": 4.623178500023641,
+      "latency_p95_ms": 6.1849650012845805
+    },
+    {
+      "model": "BERT-base (INT8)",
+      "accuracy": 0.8809782608695652,
+      "in_scope_accuracy": 0.9528761061946903,
+      "oos_recall": 0.556,
+      "team_accuracy": 0.8990942028985507,
+      "threshold": 0.18,
+      "size_mb": 111.077678,
+      "latency_ms": 24.778952000124264,
+      "latency_p95_ms": 37.531660000422555
+    }
+  ]
+}
