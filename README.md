@@ -32,7 +32,7 @@ The weights are **not** in this repository (too large). Choose one of these opti
   ```
   This takes about 45 minutes on a 4-core CPU, mostly fine-tuning BERT-base. On Google Colab with a GPU it takes a few minutes.
   `python train.py --fast` runs a 4-minute smoke test on a small subset. It writes `models/` and the results in `results/`.
-* **Download them:** [models.zip](<PUT-YOUR-GOOGLE-DRIVE-OR-HF-LINK-HERE>). Unzip it so that you have `ticket-router/models/...`.
+* **Download them:** [models.zip](<https://drive.google.com/file/d/1Y2p-fhXqwFvFKPAg_YQSRdTFHYPKMZ7U/view?usp=drive_link>). Unzip it so that you have `ticket-router/models/...`.
   Then run `python train.py` once. It skips the models that already exist, so it only quantizes BERT-base and
   re-evaluates everything (about 10 minutes). That way the results table is measured on your own hardware.
 
